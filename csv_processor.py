@@ -70,7 +70,7 @@ with open('Warnings_and_Alerts_FMA_all.csv', encoding='utf-8-sig') as fileObject
             
             json_entries.append(entry)
         
-    with open('output.json', 'w', encoding='utf-8') as file:
+    with open('nz_output.json', 'w', encoding='utf-8') as file:
         json.dump(json_entries, file, indent = 2)
         
         
