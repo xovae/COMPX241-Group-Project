@@ -1,5 +1,3 @@
-import csv
-import re
 import json
 
 #Open file
