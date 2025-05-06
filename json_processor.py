@@ -15,7 +15,18 @@ with open('investor-alert-list.json', encoding='utf-8-sig') as fileObject:
         if entry.get("websites") != None:
             #Filters out JSON entries with no websites listed
             if entry["websites"][0]:
-                json_entries.append(entry)
+                if entry["dateAdded"] != None:
+                    date = entry["dateAdded"]
+                else:
+                    date = entry["dateUpdated"]
+                filtered_entry = {
+                    "Type" : "AUS",
+                    "Name" : entry["nameMandatory"],
+                    "Date": date,
+                    "Websites": entry["websites"]
+                }
+                
+                json_entries.append(filtered_entry)
             
 with open('aus_output.json', 'w', encoding='utf-8') as file:
         json.dump(json_entries, file, indent = 2)

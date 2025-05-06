@@ -62,6 +62,7 @@ with open('Warnings_and_Alerts_FMA_all.csv', encoding='utf-8-sig') as fileObject
             sorted_websites = list(set(sorted_websites))
             
             entry = {
+                "Type" : "NZ",
                 "Name" : name,
                 "Date": date,
                 "Description": description,
