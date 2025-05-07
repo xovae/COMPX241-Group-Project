@@ -20,7 +20,7 @@ with open('Warnings_and_Alerts_FMA_all.csv', encoding='utf-8-sig') as fileObject
         content = row[2]
         
         #Get start of description
-        description_start = content.find("FSPR: \n")
+        description_start = content.find("FSPR:")
         
         #If start is found
         if description_start != -1:
@@ -32,12 +32,20 @@ with open('Warnings_and_Alerts_FMA_all.csv', encoding='utf-8-sig') as fileObject
             if description_end == -1:
                 description_end = content.find("Websites")
             
-            #If found, capture all content between the description start and end
+            #If neither strings are found, find the first occurrence of a website to mark an endpoint of the description
+            if description_end == -1:
+                first_match = re.search(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', content)
+                if first_match != None:
+                    description_end = first_match.span()[0]
+                else: 
+                    description_end = -1
+            
+            #If an description end is found, capture all content between the description start and end, stripping any trailing whitespace
             if description_end != -1:
-                description = content[description_start + len(description_start):description_end]
-            #Otherwise, capture everything past the description start
+                description = content[description_start + len("FSPR:  "):description_end].rstrip()
+            #Otherwise, capture everything past the description start, stripping any trailing whitespace
             else:
-                description = content[description_start + len(description_start):]
+                description = content[description_start + len("FSPR:  "):].rstrip()
         else: 
             description = ""
             
