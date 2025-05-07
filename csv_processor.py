@@ -41,7 +41,7 @@ with open('Warnings_and_Alerts_FMA_all.csv', encoding='utf-8-sig') as fileObject
         else: 
             description = ""
             
-        # websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', content)
+        websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', content)
         # websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}(?!\.)\b', content)
         websites = [valid for valid in websites if "@" not in valid]
         

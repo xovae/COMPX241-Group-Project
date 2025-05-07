@@ -1,5 +1,6 @@
 [
   {
+    "Type": "NZ",
     "Name": "Zs Firm Investments aka Laviitas Investment Inc. - withholding client funds, misuing details of NZ company",
     "Date": "10/04/2025",
     "Description": "",
@@ -9,42 +10,46 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IPO websites - harvesting investor details",
     "Date": "28/03/2025",
     "Description": "",
     "Websites": [
-      "orbittrades.com",
-      "ipoalerts.pro",
-      "satellitestocks.com",
-      "ipoalertspro.com",
       "top5investinsider.com",
+      "ipoalerts.pro",
       "orbitipo.com",
-      "skyinvesthub.com",
-      "techgrowthinvest.com"
+      "satellitestocks.com",
+      "orbittrades.com",
+      "techgrowthinvest.com",
+      "ipoalertspro.com",
+      "skyinvesthub.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Deposit comparison websites - harvesting investor details ",
     "Date": "14/03/2025",
     "Description": "",
     "Websites": [
-      "investcomparehub.org.nz",
-      "toptermrates.co.nz",
       "bondratecompare.co.nz",
-      "toptermrates.com"
+      "investcomparehub.org.nz",
+      "toptermrates.com",
+      "toptermrates.co.nz"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ashbourne Wealth Management - Hybrid scam: investments, advance fees, money mule recruitment",
     "Date": "13/03/2025",
     "Description": "",
     "Websites": [
       "ashbournewm.com",
-      "ashbournewm.org",
-      "www.ashbournewm.io"
+      "www.ashbournewm.io",
+      "ashbournewm.org"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Growth Partners Trade \u2013 Fake certificates, client funds withheld",
     "Date": "11/03/2025",
     "Description": "",
@@ -53,6 +58,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bit Pro Gain \u2013 Suspected scam",
     "Date": "24/02/2025",
     "Description": "",
@@ -63,153 +69,155 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Network of fake online investment platforms \u2013 Suspected scam",
     "Date": "17/02/2025",
     "Description": "",
     "Websites": [
-      "branch-forex.com",
-      "blgpro.com",
-      "fxpioneet.com",
-      "funding-mx.com",
-      "dcmmarkets.com",
-      "temaketltd.com",
-      "cxmtra.com",
-      "gffxx-ff6.com",
-      "webmail.gffxx.com",
-      "baazexdx.com",
-      "kmaicc.vip",
-      "zodiamarkets.vip",
-      "nasdaqkfx.com",
-      "novalimited.info",
-      "atfxgoldsvip.com",
-      "capitalmanager.link",
-      "branctrade.com",
-      "gmimarkets.vip",
-      "comeafx.com",
-      "dbgmarkentskinlted.com",
-      "lamboxfx.cc",
-      "gaitameonlinefx.com",
-      "ivisiontrade.com",
-      "247markettrade.com",
-      "ausglobalforex.com",
-      "ylchat.com",
-      "fuwaltd.com",
-      "pcssgapro.glennallan.com",
-      "gray-thy.com",
-      "baazexfx.com",
-      "intraglobalfx.com",
-      "tauforex.net",
-      "boloniltd.com",
-      "fogoforex.com",
-      "parrtd.com",
-      "firephoenixit.com",
-      "dtxmaiketx.cc",
-      "iuxmarketsfx.com",
-      "btgrdo.com",
-      "lszxy-fx.com",
-      "wwwdxi.botaifrp.com",
-      "sstraderltd.com",
-      "dbgmarkentskinlhdsb.com",
-      "stockfxmarkets.com",
-      "eibcfinancldif.icu",
-      "blackbullfxltd.com",
-      "straitsfxvip.com",
-      "newsmarketsltd.com",
-      "saxoasin.com",
-      "exclusivegoldfx.com",
-      "xynnyse.com",
-      "sqlqdmarts.com",
-      "fcaageafin.com",
-      "foboxglobal.com",
-      "libertyfxltd.com",
-      "madcuifcgroup.com",
-      "firephoenixex.com",
-      "dbg-markets.cc",
-      "kmaicc.xyz",
-      "dml-markets.com",
-      "gftradese.com",
-      "atfxgoldvip.cc",
-      "dkglob.com",
-      "apexfxent.com",
-      "bitpieexc.com",
-      "hxqna.com",
-      "trademate.pro",
-      "branch-fx-one.com",
-      "aaaxmcfd.com",
-      "fuwafx.com",
-      "kyros.vip",
-      "pcssgapro.gdcyls.com",
-      "blgfinance.com",
-      "capitalmanager.net",
-      "pepperstonevip.com",
-      "mt5pro.vip",
-      "igmarketsfx.com",
-      "aeestgroup.com",
-      "yqanyse.com",
-      "tpcmetatrader.com",
-      "blueberry-global.com",
-      "metatrade5pro.com",
-      "buxmarketstd.com",
-      "jhmfxltd.com",
-      "skncoin.com",
-      "skylineltdfx.com",
-      "xchar.cc",
-      "bscapm.com",
-      "firephoenixig.com",
-      "mancuifcnet.com",
-      "aaaxmglomarkets.com",
-      "tradematemx.com",
-      "tasmanltd.com",
-      "sknfx.net",
       "saxobankasia.com",
-      "comcvip.com",
-      "marketsinter.com",
+      "atfxgoldvip.cc",
+      "dbg-markets.cc",
+      "iuxmarketsfx.com",
+      "tradercgmarkets.com",
+      "cxmtra.com",
+      "aaaxmglomarkets.com",
+      "xynnyse.com",
+      "cometa-global.com",
+      "jhmfxltd.com",
+      "funding-mx.com",
+      "kmaicc.xyz",
+      "fuwaltd.com",
+      "tasmanltd.com",
+      "madcuifcgroup.com",
+      "intraglobalfx.com",
+      "ancetdfx.com",
+      "nasdaqkfx.com",
+      "dkglob.com",
       "onewaytex.com",
+      "yqenyse.com",
+      "sstraderltd.com",
+      "blueberry-global.com",
+      "tradematemx.com",
+      "fcaageafin.com",
+      "neonskyfx.com",
+      "fogoforex.com",
+      "buxmarketstd.com",
+      "catalystgroupstar.com",
+      "atfxgoldsvip.com",
+      "foboxglobal.com",
+      "metatrade5it.com",
+      "btgrdo.com",
+      "gffxx-ff6.com",
+      "marketsintervip.com",
+      "kyros.vip",
+      "trademate.pro",
+      "xchar.cc",
+      "shtne.vip",
+      "v3option.com",
+      "sedxltd.com",
+      "kkrrh.com",
+      "marketsinter.com",
+      "kmaicc.vip",
+      "comeafx.com",
+      "catradeteinc.com",
+      "dbgmarkentskinlted.com",
+      "pecodefx.com",
+      "firephoenixex.com",
+      "fxpioneet.com",
+      "firephoenixig.com",
+      "skncoin.com",
+      "lesenmaks.cc",
+      "ancetd.com",
+      "novalimited.info",
+      "fbssltd.com",
+      "straitsfxvip.com",
+      "straitsfx.com",
+      "fuwafx.com",
+      "dbgmarkentskinlhdsb.com",
+      "skylineltdfx.com",
+      "branch-fx-one.com",
+      "ausglobalforex.com",
+      "pcssgapro.glennallan.com",
+      "ivisiontrade.com",
+      "baazexdx.com",
+      "aslasll.com",
+      "boloniltd.com",
+      "sqlqdmarts.com",
+      "wwwdxi.botaifrp.com",
+      "tasmaltd.com",
+      "lamboxfx.cc",
+      "zodiamarkets.vip",
+      "tpcmetatrader.com",
+      "bitpieexc.com",
+      "mprde.com",
+      "247markettrade.com",
+      "temaketltd.com",
+      "baazexfx.com",
       "hut8ltd.com",
       "neonskytd.com",
-      "trademx365.com",
-      "blkinternationalltd.com",
-      "fbssltd.com",
-      "marketsintervip.com",
-      "pecodefx.com",
-      "kcmtradeint.com",
-      "straitsfx.com",
-      "tradercgmarkets.com",
-      "catradeteinc.com",
-      "comcfx.com",
-      "sedxltd.com",
-      "metatrade5it.com",
-      "prudentialweb.bizdw.com",
-      "cometa-global.com",
-      "shtne.vip",
-      "yqenyse.com",
-      "firephoenixin.com",
-      "tmgmltd.com",
-      "neonskyfx.com",
-      "fdglobalmarket.com",
-      "ibtpglobal.com",
-      "v3option.com",
-      "aslasll.com",
-      "fproalizan.com",
-      "tasmaltd.com",
-      "ancetd.com",
-      "bitcecoin.com",
-      "ancetdfx.com",
-      "deoasis.net",
-      "kkrrh.com",
-      "mprde.com",
-      "catalystgroupstar.com",
-      "gf.bitceco.com",
+      "pcssgapro.gdcyls.com",
+      "newsmarketsltd.com",
+      "exclusivegoldfx.com",
       "tradercgomarkets.com",
+      "lszxy-fx.com",
+      "capitalmanager.link",
+      "blgfinance.com",
+      "firephoenixin.com",
+      "mancuifcnet.com",
+      "branch-forex.com",
+      "apexfxent.com",
+      "mt5pro.vip",
+      "libertyfxltd.com",
+      "capitalmanager.net",
+      "fproalizan.com",
+      "branctrade.com",
+      "aaaxmcfd.com",
+      "deoasis.net",
+      "blackbullfxltd.com",
+      "fdglobalmarket.com",
+      "eibcfinancldif.icu",
+      "ibtpglobal.com",
+      "gaitameonlinefx.com",
+      "gmimarkets.vip",
+      "dml-markets.com",
+      "gftradese.com",
+      "firephoenixit.com",
+      "yqanyse.com",
+      "tauforex.net",
+      "dtxmaiketx.cc",
+      "saxoasin.com",
+      "prudentialweb.bizdw.com",
+      "parrtd.com",
+      "metatrade5pro.com",
+      "blgpro.com",
+      "tmgmltd.com",
+      "comcfx.com",
+      "pepperstonevip.com",
       "dtx-markets.com",
+      "igmarketsfx.com",
+      "hxqna.com",
+      "aeestgroup.com",
+      "gray-thy.com",
+      "bscapm.com",
+      "trademx365.com",
       "ssjtcf-forex.com",
+      "gf.bitceco.com",
+      "blkinternationalltd.com",
       "rivergloballtd.com",
-      "lesenmaks.cc",
+      "stockfxmarkets.com",
+      "webmail.gffxx.com",
+      "metatrade5il.com",
+      "comcvip.com",
       "sownotx.com",
-      "metatrade5il.com"
+      "bitcecoin.com",
+      "dcmmarkets.com",
+      "kcmtradeint.com",
+      "sknfx.net",
+      "ylchat.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Apexminers - Imposter website",
     "Date": "17/02/2025",
     "Description": "",
@@ -218,6 +226,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Whitford Assets \u2013 Suspected scam, withholding client funds",
     "Date": "12/02/2025",
     "Description": "",
@@ -226,6 +235,16 @@
     ]
   },
   {
+    "Type": "NZ",
+    "Name": "Scam impersonating Financial Markets Authority ",
+    "Date": "11/02/2025",
+    "Description": "",
+    "Websites": [
+      "fma.govt.nz"
+    ]
+  },
+  {
+    "Type": "NZ",
     "Name": "DRG-T \u2013 International warning, suspected scam",
     "Date": "05/02/2025",
     "Description": "",
@@ -234,6 +253,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Access Cash Lending \u2013 Loan scam",
     "Date": "29/01/2025",
     "Description": "",
@@ -242,6 +262,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcotel \u2013 Withholding client funds; upfront payments required for withdrawals",
     "Date": "29/01/2025",
     "Description": "",
@@ -250,6 +271,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ultimate Traders \u2013 Suspected scam; withholding client funds; false regulation claims",
     "Date": "24/01/2025",
     "Description": "",
@@ -258,14 +280,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Option 2 Trade \u2013 Suspected scam ",
     "Date": "22/01/2025",
     "Description": "",
     "Websites": [
-      "www.option2trade.io"
+      "www.option2trade.io",
+      "option2trade.io"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Livaxxen \u2013 Operating a scam and withholding client funds ",
     "Date": "20/01/2025",
     "Description": "",
@@ -274,82 +299,86 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "PFDMarkets- Impersonates New Zealand Company",
     "Date": "08/01/2025",
     "Description": "",
     "Websites": [
       "pfdmarkets.com",
-      "app.pfdmarkets.com",
-      "pdfmarkets.com"
+      "pdfmarkets.com",
+      "app.pfdmarkets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "YouTube cryptocurrency investment scam",
     "Date": "16/12/2024",
     "Description": "",
     "Websites": [
-      "retrocapitals.com",
-      "apexratecapital.com",
-      "phoenix-trades.com",
-      "mail.smartedge-asset.com",
-      "aitradecaptlt.com",
-      "obacoinex.com",
-      "bricsinvestlimited.com",
-      "pocketmass.com",
-      "cryptonextrade.com",
-      "alphaswingmarket.com",
-      "polychainfinance.com",
-      "greengrowthinvestment.com",
-      "conceptradeltd.com",
-      "peaktradeempire.com",
-      "simplefxtradingcrypto.com",
-      "topfusiontrades.com",
       "bitmaxforextrading.com",
-      "binaryinv.ltd",
-      "binaryinvestments.ltd",
-      "tradesmartsignals.com",
-      "profitingmarkets.com",
-      "changefrontierllp.com",
-      "fibotracemarket.com",
-      "primetradeslive.com",
-      "astute-holdingsllc.com",
-      "global-throne.org",
-      "matrixndx-mining.com",
-      "sonicbullmarket.com",
-      "bit-fountain.net",
-      "corecapitals.com",
-      "drettcapitals.com",
-      "nerocommerce.com",
       "hubstradelimited.com",
-      "remtrade.net",
-      "stockluminator.com",
-      "bdswisstrades.com",
-      "stockdexx.org",
-      "phoenixtradesinc.com",
-      "growthpointsllc.com",
-      "omnistocktrade.com",
-      "goldenseveninv.com",
-      "bitstockassets.com",
-      "bi-investments.com",
-      "apexpointmarket.org",
+      "corecapitals.com",
       "asset-maestro.com",
-      "wallsttrades.com",
-      "sumitcrest.com",
+      "peaktradeempire.com",
+      "stockluminator.com",
+      "greengrowthinvestment.com",
       "capttradingpartnersll.com",
-      "fxzmglobalcolt.com"
+      "retrocapitals.com",
+      "bricsinvestlimited.com",
+      "bdswisstrades.com",
+      "profitingmarkets.com",
+      "aitradecaptlt.com",
+      "binaryinvestments.ltd",
+      "bi-investments.com",
+      "binaryinv.ltd",
+      "changefrontierllp.com",
+      "bit-fountain.net",
+      "conceptradeltd.com",
+      "alphaswingmarket.com",
+      "sumitcrest.com",
+      "obacoinex.com",
+      "apexpointmarket.org",
+      "remtrade.net",
+      "fibotracemarket.com",
+      "phoenixtradesinc.com",
+      "fxzmglobalcolt.com",
+      "sonicbullmarket.com",
+      "astute-holdingsllc.com",
+      "phoenix-trades.com",
+      "polychainfinance.com",
+      "growthpointsllc.com",
+      "goldenseveninv.com",
+      "apexratecapital.com",
+      "primetradeslive.com",
+      "tradesmartsignals.com",
+      "pocketmass.com",
+      "mail.smartedge-asset.com",
+      "wallsttrades.com",
+      "simplefxtradingcrypto.com",
+      "drettcapitals.com",
+      "matrixndx-mining.com",
+      "topfusiontrades.com",
+      "bitstockassets.com",
+      "stockdexx.org",
+      "omnistocktrade.com",
+      "cryptonextrade.com",
+      "global-throne.org",
+      "nerocommerce.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Mic-Market \u2013 False regulation claims; associated with Trader AI warned by ASIC",
     "Date": "03/12/2024",
     "Description": "",
     "Websites": [
       "cyprus.",
-      "bestlimiteddls.net",
-      "micmarkfx.com"
+      "micmarkfx.com",
+      "bestlimiteddls.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Flipearners \u2013 Suspected scam, unreasonably withholding client funds",
     "Date": "02/12/2024",
     "Description": "",
@@ -358,17 +387,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "AgroCura \u2013 Imposter website ",
     "Date": "27/11/2024",
     "Description": "",
     "Websites": [
-      "agrocltd.com",
       "agrocuraltd.com",
+      "agro",
       "agcltd.live",
-      "agro"
+      "agrocltd.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Deposit comparison site \u2013 Fake bond and deposit product offers mis-using name of well-known firms and banks",
     "Date": "26/11/2024",
     "Description": "",
@@ -377,6 +408,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Simple Mark Coin \u2013 Suspected scam ",
     "Date": "22/11/2024",
     "Description": "",
@@ -385,29 +417,32 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "DemiunOx \u2013 Suspected scam; withholding client funds; false regulation claims ",
     "Date": "14/11/2024",
     "Description": "",
     "Websites": [
-      "apexnumber.com",
-      "starleeft.net",
-      "demiunox.com",
-      "daytradingfxexchange.live",
       "spacxtrade.live",
-      "tridentrades.com"
+      "apexnumber.com",
+      "tridentrades.com",
+      "daytradingfxexchange.live",
+      "demiunox.com",
+      "starleeft.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SuperForex \u2013 Overseas warning and unregistered broker",
     "Date": "07/11/2024",
     "Description": "",
     "Websites": [
-      "superforex.com",
       "superforexs.com",
-      "superforexglobal.com"
+      "superforexglobal.com",
+      "superforex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Equity Trading Limited \u2013 Imposter website",
     "Date": "31/10/2024",
     "Description": "",
@@ -416,6 +451,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Hozti \u2013 Imposter website",
     "Date": "31/10/2024",
     "Description": "",
@@ -424,6 +460,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "World Experts \u2013 Suspected scam",
     "Date": "30/10/2024",
     "Description": "",
@@ -432,6 +469,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Wealth Assets \u2013 False New Zealand claims, false registration details ",
     "Date": "10/10/2024",
     "Description": "",
@@ -440,6 +478,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BullhoodExchanges \u2013 Suspected scam ",
     "Date": "09/10/2024",
     "Description": "",
@@ -448,6 +487,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Asics Mining - suspected scam, withholding funds, false regulation claims",
     "Date": "03/10/2024",
     "Description": "",
@@ -456,6 +496,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GreenerFinance - Imposter website",
     "Date": "03/10/2024",
     "Description": "",
@@ -464,6 +505,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Garrick & Crown \u2013 Cold calling, suspected scam",
     "Date": "27/09/2024",
     "Description": "",
@@ -472,51 +514,54 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Backchain Cibersecurity Department; Blockchain-dep.com; Au-blockchain.com; Crypto Fraud & Asset Recovery \u2013 Recovery scams ",
     "Date": "27/09/2024",
     "Description": "",
     "Websites": [
-      "backchain.co.uk",
-      "cfar.io",
       "blockchain-dep.com",
       "au-",
-      "spisolutions.org",
       "frsclaim.com",
-      "au-blockchain.com"
+      "cfar.io",
+      "au-blockchain.com",
+      "spisolutions.org",
+      "backchain.co.uk"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Biteq.io and duplicate websites \u2013 Suspected scam ",
     "Date": "27/09/2024",
     "Description": "",
     "Websites": [
-      "gouxo.com",
-      "magachain.org",
-      "biconomy.company",
-      "macoix.com",
-      "biteq.io",
-      "ou-dex.online",
-      "bitify.net",
-      "conbax.com",
-      "hidtex.com",
-      "biconomy.guru",
-      "gecoro.com",
-      "awinex.com",
-      "beastil.com",
-      "letstox.com",
       "neurozana.com",
-      "biteqs.org",
+      "bitify.net",
       "westcex.com",
-      "teqweek.com",
-      "coinsbit.pro",
-      "prendex.org",
-      "bitsdelta.live",
-      "bitwyt.com",
       "vaylex.com",
+      "coinsbit.pro",
+      "hidtex.com",
+      "bitsdelta.live",
+      "teqweek.com",
+      "awinex.com",
+      "magachain.org",
+      "letstox.com",
+      "biteqs.org",
+      "gecoro.com",
+      "biteq.io",
+      "biconomy.company",
+      "ou-dex.online",
+      "beastil.com",
+      "macoix.com",
+      "bitwyt.com",
+      "biconomy.guru",
+      "prendex.org",
+      "conbax.com",
+      "gouxo.com",
       "javof.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Weir Asset & Property Retrieval Services (Weir) \u2013 Recovery scam",
     "Date": "27/09/2024",
     "Description": "",
@@ -525,25 +570,37 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "LBLV \u2013 Withholding funds, suspected scam ",
     "Date": "12/09/2024",
     "Description": "",
     "Websites": [
+      "cvm.gov.br",
       "nssmc.gov.ua",
-      "www.lblv.com",
-      "cvm.gov.br"
+      "www.lblv.com"
     ]
   },
   {
+    "Type": "NZ",
+    "Name": "Sovereign Bank of Aotearoa/Ko Te Peeke o Aotearoa/Sovereign B O A Ltd/ ISKCON Bank - Haumi ohiti, peeke r\u0113hita kore/ ratonga ahumoni.",
+    "Date": "10/09/2024",
+    "Description": "",
+    "Websites": [
+      "kotepeekeoaotearoa.com"
+    ]
+  },
+  {
+    "Type": "NZ",
     "Name": "Westfffx.com, Westfiledfx.com \u2013 Imposter websites",
     "Date": "09/09/2024",
     "Description": "",
     "Websites": [
-      "westfiledfx.com",
-      "westfffx.com"
+      "westfffx.com",
+      "westfiledfx.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Grace Auto Invests Ltd \u2013 Imposter website",
     "Date": "09/09/2024",
     "Description": "",
@@ -552,6 +609,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Sovereign Bank of Aotearoa/Ko Te Peeke o Aotearoa/Sovereign B O A Ltd/ISKCON Bank \u2013 Suspicious investment, unregistered bank/financial service provider",
     "Date": "06/09/2024",
     "Description": "",
@@ -560,6 +618,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Blackbull Markets \u2013 Imposter websites",
     "Date": "06/09/2024",
     "Description": "",
@@ -572,6 +631,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Express Trade Market \u2013 Suspected scam, unreasonably withholding client funds ",
     "Date": "22/08/2024",
     "Description": "",
@@ -581,6 +641,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trading app HFSC \u2013 Withholding funds ",
     "Date": "22/08/2024",
     "Description": "",
@@ -590,6 +651,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Parnell Rosenberg Irwin Asset Management (PRIAMA)\u2013 Suspected scam ",
     "Date": "21/08/2024",
     "Description": "",
@@ -598,65 +660,68 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WhatsApp educational and investment platform scam",
     "Date": "07/08/2024",
     "Description": "",
     "Websites": [
-      "ptounx.com",
-      "www.profitcs.net",
-      "www.whallefin-btc.com",
-      "www.icmarketglobalpro.com",
-      "www.allpha-btc.com",
-      "www.alppha-eth.com",
-      "facebook.com",
-      "www.appes-online.com",
-      "juhbz.org",
-      "www.alphas-eths.com",
-      "www.ic-market.co",
-      "www.copperint.top",
-      "youtube.com",
-      "www.icintapp.com",
-      "www.kcex-btc.com",
-      "www.ptounxxm.com",
-      "www.allpha-eth.com",
       "ptounxb.com",
+      "juhbz.com",
+      "ptounz.com",
+      "www.thecopperint.com",
+      "www.",
+      "youtube.com",
+      "www.ic-market.co",
+      "juhbz.org",
+      "www.profitcs.net",
+      "www.allpha-eth.com",
+      "dynamic-arb.vip",
+      "www.icint24.com",
+      "www.whallefin-btc.com",
+      "ptounx.com",
+      "www.eth-alpha.com",
+      "www.alphas-eths.com",
+      "www.copperint.top",
+      "twitter.com",
       "moneysmart.gov.au",
+      "www.kcex-btc.com",
+      "www.icmarketglobalpro.com",
       "juhbzq.com",
+      "facebook.com",
+      "www.icintapp.com",
+      "medium.com",
+      "www.appes-online.com",
       "www.alpha-eths.com",
       "www.ptounxd.com",
-      "medium.com",
-      "juhbz.com",
-      "www.icint24.com",
-      "ptounz.com",
-      "www.eth-alpha.com",
-      "www.thecopperint.com",
-      "twitter.com",
-      "www.",
-      "dynamic-arb.vip"
+      "www.allpha-btc.com",
+      "www.ptounxxm.com",
+      "www.alppha-eth.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Deepfake video scam warning: fake news stories, political endorsements - multiple trading platforms",
     "Date": "06/08/2024",
     "Description": "",
     "Websites": [
-      "finance-phantom.nz",
-      "educationh.net",
-      "proclubteam.com",
-      "topfirstgroup.com",
-      "monxetbitapp.com",
-      "victoryxcap.com",
-      "oriondfx.com",
       "trade",
-      "financephantomai.com",
-      "invepex.com",
+      "finance-phantom.nz",
+      "monxetbitapp-nz.com",
       "vergomarkets.co",
+      "victoryxcap.com",
+      "invepex.com",
+      "topfirstgroup.com",
+      "educationh.net",
       "b",
+      "proclubteam.com",
+      "financephantomai.com",
+      "oriondfx.com",
       "pleasantery.com",
-      "monxetbitapp-nz.com"
+      "monxetbitapp.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Staxom \u2013 Suspected scam, unreasonably withholding client funds ",
     "Date": "01/08/2024",
     "Description": "",
@@ -665,15 +730,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BTCoinmt \u2013 Suspected scam",
     "Date": "31/07/2024",
     "Description": "",
     "Websites": [
-      "btcachwallet.com",
-      "btcach.com"
+      "btcach.com",
+      "btcachwallet.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "wti-hk.com \u2013 imposter website",
     "Date": "25/07/2024",
     "Description": "",
@@ -683,48 +750,53 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "OMF digital currency trading platform \u2013 Imposter websites ",
     "Date": "25/07/2024",
     "Description": "",
     "Websites": [
-      "www.om-fmarktsex.com",
-      "m.om-fmarktsex.com",
-      "www.markets-omf.com",
-      "m.o-mfmarketts.com",
-      "net.nacccoin.com",
-      "www.omf-markett.com",
-      "m.om-fmarketsx.com",
-      "nacccoin.com",
-      "m.omfmarketxj.com",
-      "m.omfexchange.com",
-      "www.omfmarkets-ex.com",
-      "o-",
-      "www.",
-      "m.omfmarkets-ex.com",
       "www.omfexchange.com",
+      "m.omfmarkets-ex.com",
+      "www.omf-markett.com",
+      "www.omfmarkets-ex.com",
+      "m.om-fmarktsex.com",
+      "m.omfmarketxj.com",
+      "www.om-fmarktsex.com",
+      "net.nacccoin.com",
+      "m.omfexchange.com",
+      "www.markets-omf.com",
+      "m.om-fmarketsx.com",
+      "m.o-mfmarketts.com",
+      "www.",
+      "nacccoin.com",
+      "o-",
       "m.of-markets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "cofglobol.com \u2013 Suspected scam, false NZ regulation claims ",
     "Date": "25/07/2024",
     "Description": "",
     "Websites": [
-      "pc.cofglobolfx.com",
-      "cofglobol.com"
+      "cofglobol.com",
+      "pc.cofglobolfx.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake FMA licence certificates",
     "Date": "12/07/2024",
     "Description": "",
     "Websites": [
-      "sohu.com",
       "co.nz",
-      "zhihu.com"
+      "zhihu.com",
+      "sohu.com",
+      "baidu.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bayleys Investment Ltd - Suspected scam",
     "Date": "10/07/2024",
     "Description": "",
@@ -733,6 +805,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Pro-Limited.com - Suspected scam",
     "Date": "05/07/2024",
     "Description": "",
@@ -741,17 +814,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CFX Finance - Imposter websites, suspected scam  ",
     "Date": "04/07/2024",
     "Description": "",
     "Websites": [
-      "summersetholdinglimited.com",
       "crypto-profithub.com",
       "c",
+      "summersetholdinglimited.com",
       "oxfordholdingltd.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bridge Trust Finance \u2013 Suspected scam, fake certificates",
     "Date": "01/07/2024",
     "Description": "",
@@ -760,6 +835,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "pioneerfinanceltd.com \u2013 Imposter website",
     "Date": "26/06/2024",
     "Description": "",
@@ -768,20 +844,22 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Shelly Cullen \u2013 Convicted Pyramid Scheme Promoter",
     "Date": "18/06/2024",
     "Description": "",
     "Websites": [
-      "dvyneway.com",
-      "ultron.",
+      "mavie.",
+      "miracle",
       "fin",
       "lotto",
-      "miracle",
-      "mavie.",
+      "ultron.",
+      "dvyneway.com",
       "flip-"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Xcel Trader - Imposter website, withholding funds",
     "Date": "18/06/2024",
     "Description": "",
@@ -790,15 +868,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vasttradeoption \u2013 coercion through social media",
     "Date": "12/06/2024",
     "Description": "",
     "Websites": [
-      "vasttradeoption.com",
-      "www.vastplextrade.com"
+      "www.vastplextrade.com",
+      "vasttradeoption.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor warning: wisefex.org Investment LTD",
     "Date": "11/06/2024",
     "Description": "",
@@ -809,6 +889,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZ Rates Finders - Comparison site harvesting investor details",
     "Date": "24/05/2024",
     "Description": "",
@@ -817,6 +898,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trustpodia \u2013 Imposter website ",
     "Date": "23/05/2024",
     "Description": "",
@@ -825,6 +907,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CapitalGrowthLTD.net \u2013 Imposter website",
     "Date": "20/05/2024",
     "Description": "",
@@ -834,44 +917,48 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake Celebrity Investment Scam \u2013 Multiple trading platforms",
     "Date": "13/05/2024",
     "Description": "",
     "Websites": [
-      "fxoppen.co",
-      "scholarcloset.academy",
-      "globally-invest.io",
+      "dia.govt.nz",
       "samuelespissu.com",
-      "globally-invest.co",
-      "hln-dagelijks.com",
-      "platform.tradecentreai.com",
       "blueholdings.vip",
-      "marketrocks.com",
-      "sfmcapitals.com",
-      "globalconnect24.net",
-      "alex.martin",
-      "bitcoremomentum.com",
-      "cg-markets.com",
-      "bankefex.com",
-      "wfminternational.vip",
-      "ksephand.info",
-      "platform.magnifygroup.online",
       "roctunit.info",
-      "trade212.io",
-      "schwabeuinvesting.com",
-      "fintrends.org",
-      "ai-assets.ltd",
-      "trade212.ai",
-      "magnifygroup.com",
-      "wt4u.co",
-      "trade101.ai",
+      "precisiontrade.io",
+      "platform.magnifygroup.online",
       "lplinvesting.com",
       "capitagains.com",
+      "fintrends.org",
+      "trade101.ai",
+      "scholarcloset.academy",
+      "trade212.ai",
+      "globally-invest.co",
+      "trade212.io",
+      "bitcoremomentum.com",
+      "platform.tradecentreai.com",
+      "fxoppen.co",
+      "cg-markets.com",
+      "sfmcapitals.com",
+      "bankefex.com",
+      "marketrocks.com",
+      "hln-dagelijks.com",
+      "wfminternational.vip",
+      "ai-assets.ltd",
+      "globalconnect24.net",
+      "mcjinvest.com",
+      "ksephand.info",
+      "canadiancapitalmarkets.com",
+      "magnifygroup.com",
       "ultimate-traders.com",
-      "mcjinvest.com"
+      "wt4u.co",
+      "schwabeuinvesting.com",
+      "globally-invest.io"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kiwibank \u2013 Fake term deposits ",
     "Date": "03/05/2024",
     "Description": "",
@@ -880,6 +967,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Equity Budget \u2013 Suspected scam",
     "Date": "01/05/2024",
     "Description": "",
@@ -888,6 +976,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Affix Global Holdings Ltd \u2013 Imposter Website",
     "Date": "29/04/2024",
     "Description": "",
@@ -896,6 +985,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Hz-cap.com - Imposter, unsolicited offer",
     "Date": "24/04/2024",
     "Description": "",
@@ -904,6 +994,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "AxonExchange \u2013 Imposter website, suspected scam",
     "Date": "17/04/2024",
     "Description": "",
@@ -914,6 +1005,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Quantum Ireland ICAV \u2013 Withholding client funds, overseas regulator warning ",
     "Date": "16/04/2024",
     "Description": "",
@@ -923,6 +1015,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "AC Finance Limited \u2013 Imposter website",
     "Date": "15/04/2024",
     "Description": "",
@@ -931,6 +1024,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZ Compare Rates - Comparison site harvesting investor details ",
     "Date": "12/04/2024",
     "Description": "",
@@ -939,6 +1033,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Multi Global Leaders \u2013 Suspected scam",
     "Date": "12/04/2024",
     "Description": "",
@@ -947,6 +1042,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Market2Cap \u2013 Withholding of client funds, suspected scam, overseas regulator warning",
     "Date": "11/04/2024",
     "Description": "",
@@ -956,6 +1052,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinone Investments Limited \u2013 Imposter, withholding client funds",
     "Date": "11/04/2024",
     "Description": "",
@@ -965,6 +1062,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Sirk Investments Limited \u2013 Imposter website, suspected scam ",
     "Date": "09/04/2024",
     "Description": "",
@@ -973,6 +1071,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZX Wealth Investments \u2013 Imposter website ",
     "Date": "04/04/2024",
     "Description": "",
@@ -981,15 +1080,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Maxipay Limited \u2013 Imposter website",
     "Date": "02/04/2024",
     "Description": "",
     "Websites": [
       "www.maxipayltd.com",
+      "www.",
       "maxi"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Grandeur Capital Pro \u2013 Withholding client funds, false registration information on website, investment scam",
     "Date": "27/03/2024",
     "Description": "",
@@ -998,6 +1100,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Greenland Finance Enterprise \u2013 Suspected scam",
     "Date": "21/03/2024",
     "Description": "",
@@ -1007,17 +1110,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tricom Capital Management, Alpha-securities Ltd, Wader Securities, and WCT Investments PTE Ltd \u2013 Suspected Scam",
     "Date": "19/03/2024",
     "Description": "",
     "Websites": [
-      "wct-pte.com",
       "alphasecuritiesco.com",
       "wadersec.com",
+      "wct-pte.com",
       "tricom-cm.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "tmgm-sapp.shop/syn: unreasonably witholding client funds",
     "Date": "19/03/2024",
     "Description": "",
@@ -1027,6 +1132,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SPS Investment Services Limited/Wilby Securities",
     "Date": "14/03/2024",
     "Description": "",
@@ -1036,34 +1142,36 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TP Global FX \u2013 Unregistered, withholding funds ",
     "Date": "14/03/2024",
     "Description": "",
     "Websites": [
-      "www.tpglobalfx.com",
-      "www.facebook.com",
-      "www.youtube.com",
       "twitter.com",
+      "www.facebook.com",
+      "www.tpglobalfx.com",
+      "www.youtube.com",
       "www.linkedin.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tradesafer \u2013 Suspected scam",
     "Date": "14/03/2024",
     "Description": "",
     "Websites": [
-      "trade.",
-      "steve.anderson",
+      "trade",
+      "australian",
+      "www.trade.tradesafer.com",
+      "www.tradesafer.com",
       "www.trader.tradesafer.pro",
       "trader.tradesafer.pro",
-      "australian",
       "www.",
-      "trade",
-      "www.tradesafer.com",
-      "www.trade.tradesafer.com"
+      "trade."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Profit Flutter Investments \u2013 Suspected scam",
     "Date": "14/03/2024",
     "Description": "",
@@ -1072,6 +1180,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "M23trading Limited - Imposter website, suspected scam",
     "Date": "13/03/2024",
     "Description": "",
@@ -1080,15 +1189,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trent and Castle \u2013 Cold calling, unregistered ",
     "Date": "06/03/2024",
     "Description": "",
     "Websites": [
-      "5",
-      "www.trentandcastle.com"
+      "www.trentandcastle.com",
+      "5"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Medium Global Strategy \u2013 Unregistered business, unreasonable withholding of client funds",
     "Date": "04/03/2024",
     "Description": "",
@@ -1097,6 +1208,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Seaton Trustees \u2013 Imposter website",
     "Date": "04/03/2024",
     "Description": "",
@@ -1105,6 +1217,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "J Rothschild \u2013 Imposter website, fake FMA documents  ",
     "Date": "04/03/2024",
     "Description": "",
@@ -1113,16 +1226,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tidal Financial Services \u2013 Imposter website",
     "Date": "28/02/2024",
     "Description": "",
     "Websites": [
-      "co.nz",
+      "www.tidalfs.com",
       "tidalfs.com",
+      "www.",
+      "co.nz",
       "tidal"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Hillier Finance \u2013 Imposter website, information harvesting",
     "Date": "26/02/2024",
     "Description": "",
@@ -1131,6 +1248,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fraud Investigation & Repatriation Authority and Ladew Law \u2013 Fake Regulator, recovery Scam",
     "Date": "22/02/2024",
     "Description": "",
@@ -1140,6 +1258,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Riseup Trade \u2013 Suspected scam",
     "Date": "16/02/2024",
     "Description": "",
@@ -1148,6 +1267,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IPO Alerts \u2013 IPO website harvesting investor details",
     "Date": "09/02/2024",
     "Description": "",
@@ -1156,6 +1276,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Early Offerings \u2013 IPO website harvesting investor details",
     "Date": "09/02/2024",
     "Description": "",
@@ -1164,6 +1285,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GS Partners \u2013 subject to various overseas warnings and regulatory actions ",
     "Date": "07/02/2024",
     "Description": "",
@@ -1172,18 +1294,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Titan Trustees, Monet Heritage, Fox Asset Finance, FCS Assets, Metro Capital \u2013 Imposter websites, duplicate websites",
     "Date": "02/02/2024",
     "Description": "",
     "Websites": [
+      "metro",
+      "monet",
       "fox",
       "titan-",
-      "metro",
-      "f",
-      "monet"
+      "f"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Forbes Capital Partners \u2013 Suspected scam",
     "Date": "02/02/2024",
     "Description": "",
@@ -1192,6 +1316,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Axon Holdings \u2013 Imposter website",
     "Date": "02/02/2024",
     "Description": "",
@@ -1201,16 +1326,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Recovery scam using name of UK Authority",
     "Date": "30/01/2024",
     "Description": "",
     "Websites": [
-      "fcanewsletters.org.uk",
       "fcamails.org.uk",
+      "fcanewsletters.org.uk",
       "fca.org.uk"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investing New Zealand - Comparison site harvesting investor details ",
     "Date": "26/01/2024",
     "Description": "",
@@ -1219,6 +1346,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Get Paid by Fixed Rate - Comparison site harvesting investor details",
     "Date": "26/01/2024",
     "Description": "",
@@ -1227,18 +1355,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FX Fortune Bitmart \u2013 Imposter website, duplicate websites",
     "Date": "26/01/2024",
     "Description": "",
     "Websites": [
-      "fxfortunebitmart.com",
+      "smartvalue.ltd",
       "smartvalue-income.com",
-      "fxfortunebitmarkt.com",
+      "fxfortunebitmart.com",
       "smartvalues.ltd",
-      "smartvalue.ltd"
+      "fxfortunebitmarkt.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Altera Global Limited \u2013 Suspected scam",
     "Date": "26/01/2024",
     "Description": "",
@@ -1247,6 +1377,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BlockFusion Ventures \u2013 Suspected scam",
     "Date": "12/01/2024",
     "Description": "",
@@ -1255,6 +1386,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Liberty Commercial Finance Limited \u2013 Overseas warning",
     "Date": "10/01/2024",
     "Description": "",
@@ -1264,6 +1396,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Arbitrage Node \u2013 Imposter website",
     "Date": "21/12/2023",
     "Description": "",
@@ -1272,6 +1405,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trust Dillon \u2013 Imposter website",
     "Date": "21/12/2023",
     "Description": "",
@@ -1280,28 +1414,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Laxco Group \u2013 Suspected scam",
     "Date": "18/12/2023",
     "Description": "",
     "Websites": [
-      "www.laxco",
-      "www."
+      "www.",
+      "www.laxco-group.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cyprus Securities and Exchange Commission \u2013 Imposter websites",
     "Date": "14/12/2023",
     "Description": "",
     "Websites": [
-      "www.cysecgov.com",
-      "www.cysec-regulatory.com",
+      "www.cysecsupport.online",
       "cysec.gov.cy",
       "www.cysec-support.online",
       "www.",
-      "www.cysecsupport.online"
+      "www.cysecgov.com",
+      "www.cysec-regulatory.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Allied Holding Global \u2013 Imposter website",
     "Date": "14/12/2023",
     "Description": "",
@@ -1310,6 +1447,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bronte FX - Imposter website",
     "Date": "13/12/2023",
     "Description": "",
@@ -1319,32 +1457,36 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ocean Trade",
     "Date": "13/12/2023",
     "Description": "",
     "Websites": [
-      "ocean-trade.org",
       "coinfinancefxtrading.com",
+      "ocean-trade.org",
+      "cnkglobalinvestment.com",
       "realearners.net",
-      "livetradeinvestment.com",
       "upliftfxinvest.net",
-      "episodegrab.org",
-      "stakefunds.org",
-      "coinminetinvest.com",
-      "perfectglobaltrade.org",
+      "livetradeinvestment.com",
       "cryptoprofitrade.com",
-      "cnkglobalinvestment.com"
+      "stakefunds.org",
+      "perfectglobaltrade.org",
+      "episodegrab.org",
+      "coinminetinvest.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cato Asset Management \u2013 Imposter website",
     "Date": "13/12/2023",
     "Description": "",
     "Websites": [
-      "www.catoassetmanagement.com"
+      "www.catoassetmanagement.com",
+      "cato"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZ Best Rates - Comparison website harvesting investor details",
     "Date": "04/12/2023",
     "Description": "",
@@ -1353,15 +1495,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Heartland Bank \u2013 Fake term deposits and bonds",
     "Date": "29/11/2023",
     "Description": "",
     "Websites": [
-      "www.",
-      "heartland.co.nz"
+      "heartland.co.nz",
+      "www."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "OmegaMining-FX \u2013 Imposter website",
     "Date": "21/11/2023",
     "Description": "",
@@ -1370,6 +1514,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Indices Access Group \u2013 Suspected scam; unsolicited offer",
     "Date": "21/11/2023",
     "Description": "",
@@ -1378,6 +1523,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CapitalvestPRO \u2013 Suspected scam",
     "Date": "20/11/2023",
     "Description": "",
@@ -1386,6 +1532,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vaquita Capital \u2013 Overseas warnings, withholding investor funds",
     "Date": "02/11/2023",
     "Description": "",
@@ -1394,6 +1541,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "MaxTradeCap - Suspected scam",
     "Date": "02/11/2023",
     "Description": "",
@@ -1402,27 +1550,30 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ovax Global Limited: False company information; unrealistic returns, fake testimonials",
     "Date": "31/10/2023",
     "Description": "",
     "Websites": [
-      "here.",
-      "testimonials.",
       "untrue.",
-      "scam."
+      "scam.",
+      "testimonials.",
+      "here."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "John Tei - Fictitious project funding offers; Fake documents",
     "Date": "31/10/2023",
     "Description": "",
     "Websites": [
       "page.",
-      "entity.",
-      "transfer."
+      "transfer.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TylerTech Finance \u2013 Suspected scam",
     "Date": "27/10/2023",
     "Description": "",
@@ -1432,30 +1583,33 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fixed Rate Options \u2013 Social media advertising harvesting investor details ",
     "Date": "25/10/2023",
     "Description": "",
     "Websites": [
-      "www.fixedrateoptions.com",
-      "scam.",
+      "opportunities.",
       "investments.",
-      "opportunities."
+      "scam.",
+      "www.fixedrateoptions.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Smart Money - Uncancellable subscription, undelivered service, suspicious testimonials",
     "Date": "09/10/2023",
     "Description": "",
     "Websites": [
-      "www.smartmoneynz.com",
+      "cards.",
+      "genuine.",
       "subscribers.",
       "s",
       "smartmoneyadvice.co.nz.",
-      "genuine.",
-      "cards."
+      "www.smartmoneynz.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "9XProfits \u2013 Suspected scam",
     "Date": "06/10/2023",
     "Description": "",
@@ -1464,27 +1618,30 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kiwi Bonds Trust \u2013 Comparison website harvesting investor details",
     "Date": "06/10/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "institutions.",
       "opportunities.",
-      "www.kiwibonds.org"
+      "www.kiwibonds.org",
+      "zealand.",
+      "institutions."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Brownprime \u2013 Imposter, upfront withdrawal fees, unrealistic returns",
     "Date": "27/09/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "brownprime.com",
+      "zealand.",
       "funds."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Finex Group \u2013 Suspected scam",
     "Date": "22/09/2023",
     "Description": "",
@@ -1496,16 +1653,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IM Academy \u2013 Overseas warnings",
     "Date": "21/09/2023",
     "Description": "",
     "Websites": [
-      "im.academy",
       "imarketslive.com",
+      "im.academy",
       "inc."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Jecbit Finance Limited \u2013 Unregistered, Imposter website",
     "Date": "18/09/2023",
     "Description": "",
@@ -1515,56 +1674,62 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Century Trading Group \u2013 Imposter website",
     "Date": "15/09/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "group.",
-      "century"
+      "century",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cluncoin Earn \u2013 Imposter website",
     "Date": "15/09/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
+      "earn.",
       "cluncoin",
-      "earn."
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kiwi Term Deposits - Comparison website harvesting investor details",
     "Date": "14/09/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "scam.",
       "opportunities.",
-      "www.kiwitermdeposits.com"
+      "scam.",
+      "www.kiwitermdeposits.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Gold Wise \u2013 Imposter website",
     "Date": "30/08/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "gold"
+      "gold",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cryptotrusthub \u2013 Imposter website, unreasonable withdrawal fees",
     "Date": "29/08/2023",
     "Description": "",
     "Websites": [
+      "cryptotrusthub.com",
       "zealand.",
-      "funds.",
-      "cryptotrusthub.com"
+      "funds."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinz Holding \u2013 Imposter Website ",
     "Date": "21/08/2023",
     "Description": "",
@@ -1573,133 +1738,146 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Rapid Trade Return \u2013 Imposter website",
     "Date": "11/08/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "rapidtradereturn.com",
-      "rapidtether.com.",
-      "www."
+      "zealand.",
+      "www.",
+      "rapidtether.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WPS Management \u2013 impersonates genuine licensed entity",
     "Date": "04/08/2023",
     "Description": "",
     "Websites": [
       "entity.",
-      "funds.",
-      "www.wpsmanage.com"
+      "www.wpsmanage.com",
+      "funds."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Horizon capital \u2013 Imposter website",
     "Date": "03/08/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "horizon-capital.ltd.",
       "www.",
-      "website."
+      "website.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Portaltradecapital \u2013 Imposter website",
     "Date": "01/08/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "portaltradecapital.com.",
       "www.",
-      "website."
+      "website.",
+      "portaltradecapital.com.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Safe Trust Wealth \u2013 Unregistered, not based in NZ",
     "Date": "31/07/2023",
     "Description": "",
     "Websites": [
-      "entity.",
-      "www.safe-trust.net"
+      "www.safe-trust.net",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Aquafinance.ltd \u2013 Imposter website",
     "Date": "27/07/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "website.",
       "aquafinance.ltd.",
+      "zealand.",
       "aquafinance.ltd"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BT Funds Management \u2013 Fake term deposits",
     "Date": "21/07/2023",
     "Description": "",
     "Websites": [
+      "zealanders.",
       "btgroup-td.com",
       "s.",
       "www.btgroup-td.com",
-      "offers.",
-      "zealanders."
+      "offers."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "HSBC \u2013 Fake term deposits",
     "Date": "21/07/2023",
     "Description": "",
     "Websites": [
       "www.hsbcnz.com",
-      "websites.",
-      "website."
+      "website.",
+      "websites."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Rates Finder - Comparison website harvesting investor details",
     "Date": "20/07/2023",
     "Description": "",
     "Websites": [
-      "information.",
-      "www.ratesfinder.co.nz",
       "persistent.",
+      "zealand.",
       "scam.",
-      "zealand."
+      "information.",
+      "www.ratesfinder.co.nz"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WBroker \u2013 False claims, international warnings",
     "Date": "17/07/2023",
     "Description": "",
     "Websites": [
-      "www.wbroker.com",
-      "w"
+      "w",
+      "www.wbroker.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Grampoint \u2013 Unregistered, withholding funds",
     "Date": "11/07/2023",
     "Description": "",
     "Websites": [
+      "funds.",
+      "zealand.",
       "consent.",
       "grampoint.",
-      "www.grampointclub.com",
-      "funds.",
-      "zealand."
+      "www.grampointclub.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "HoldingHeritageLimited.com - Imposter Website",
     "Date": "10/07/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "holding"
+      "holding",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "PSLUS.COM \u2013 Imposter website",
     "Date": "10/07/2023",
     "Description": "",
@@ -1709,95 +1887,105 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "OKX Pro \u2013 Unregistered, withholding funds",
     "Date": "05/07/2023",
     "Description": "",
     "Websites": [
+      "withdrawals.",
       "register.",
-      "www.okxbiz.com",
       "website.",
-      "withdrawals."
+      "www.okxbiz.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Stake Funds \u2013 Unregistered, withholding funds",
     "Date": "04/07/2023",
     "Description": "",
     "Websites": [
       "zealand.",
-      "www.stakefunds.co",
-      "funds."
+      "funds.",
+      "stakefunds.co",
+      "www.stakefunds.co"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Gold Investment \u2013 False claims, withholding funds",
     "Date": "04/07/2023",
     "Description": "",
     "Websites": [
       "www.capitalgoldinvestment.net",
-      "website.",
-      "investment.",
       "register.",
-      "2008."
+      "2008.",
+      "investment.",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Market Radar \u2013 Unreasonably withholds clients\u2019 funds",
     "Date": "12/06/2023",
     "Description": "",
     "Websites": [
       "marketsradar.io",
-      "www.marketsradar.io",
       "licence.",
+      "www.marketsradar.io",
       "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Rolvi Trade \u2013 unregistered, potential pyramid scheme ",
     "Date": "12/06/2023",
     "Description": "",
     "Websites": [
-      "2013.",
       "funds.",
-      "rolvitrade.com"
+      "rolvitrade.com",
+      "2013."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ventures Equity \u2013 Imposter website",
     "Date": "09/06/2023",
     "Description": "",
     "Websites": [
-      "www.venturesequity.com",
-      "equity."
+      "equity.",
+      "www.venturesequity.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Compare Fixed Term Deposits (CFTD) \u2013 Comparison site harvesting investor details  ",
     "Date": "09/06/2023",
     "Description": "",
     "Websites": [
-      "schemes.",
-      "comparefixedtermdeposits.net",
       "opportunities.",
-      "zealand."
+      "schemes.",
+      "zealand.",
+      "comparefixedtermdeposits.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BNP Paribas \u2013 Fake bonds offer",
     "Date": "09/06/2023",
     "Description": "",
     "Websites": [
-      "consent.",
       "www.bnpparibas",
       "bank.",
-      "www.",
-      "true.",
       "zealand.",
+      "consent.",
+      "continued.",
+      "www.",
       "offers.",
-      "continued."
+      "true."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bespoke Finance \u2013 Imposter Website",
     "Date": "06/06/2023",
     "Description": "",
@@ -1806,36 +1994,40 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BuntyCorp \u2013 Imposter website",
     "Date": "02/06/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "bunty"
+      "bunty",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Entity demands tax payment that does not exist",
     "Date": "31/05/2023",
     "Description": "",
     "Websites": [
       "zealand.",
-      "ariseinvslimited.com.",
       "ariseinvslimited.com",
-      "case."
+      "case.",
+      "ariseinvslimited.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website (accordinvestmentslimited.com) unreasonably withholding client\u2019s money",
     "Date": "30/05/2023",
     "Description": "",
     "Websites": [
       "returns.",
-      "accordinvestmentslimited.com",
-      "website."
+      "website.",
+      "accordinvestmentslimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake offer of Suncorp fixed term deposit",
     "Date": "26/05/2023",
     "Description": "",
@@ -1845,6 +2037,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "PTWealthManagement \u2013 imposter websites",
     "Date": "26/05/2023",
     "Description": "",
@@ -1853,26 +2046,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Citi Prospectus Scams ",
     "Date": "15/05/2023",
     "Description": "",
     "Websites": [
       "offers.",
-      "untrue.",
-      "n."
+      "n.",
+      "untrue."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Hatch Holdings: Providing financial services without registration in New Zealand",
     "Date": "03/05/2023",
     "Description": "",
     "Websites": [
-      "entity.",
+      "hatchholding.net",
       "residents.",
-      "hatchholding.net"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Quick Pay is falsely claiming to be a NZ registered company",
     "Date": "27/04/2023",
     "Description": "",
@@ -1882,6 +2078,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Imposter website DCMAtrading.com",
     "Date": "26/04/2023",
     "Description": "",
@@ -1891,107 +2088,117 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cathay Holdings Ltd \u2013 Imposter website\t",
     "Date": "11/04/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "cathay",
-      "paid."
+      "paid.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "False FSP claims by Battle Steed AI",
     "Date": "05/04/2023",
     "Description": "",
     "Websites": [
-      "battlesteed.ai",
-      "battlesteed.cc"
+      "battlesteed.cc",
+      "battlesteed.ai"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Soltechx does not hold a Derivatives Issuer licence to provide CFD trading services",
     "Date": "28/03/2023",
     "Description": "",
     "Websites": [
-      "www.soltechx.com",
-      "platform.",
       "investments.",
-      "website.",
       "c",
-      "kingstown."
+      "kingstown.",
+      "platform.",
+      "website.",
+      "www.soltechx.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cambridge Asset Management unreasonably withholding funds",
     "Date": "27/03/2023",
     "Description": "",
     "Websites": [
-      "management.",
       "cambridgeassetmanagement.com",
       "withdrawn.",
+      "management.",
       "2008."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CJV Trust Services falsely claims to be associated with Membership Payment Services Limited",
     "Date": "24/03/2023",
     "Description": "",
     "Websites": [
       "www.cjvtrustservices.com",
-      "www.cjvtrustservices.com.",
-      "f"
+      "f",
+      "www.cjvtrustservices.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake NZ-based entity, JFM Group offering Oceania governments and corporate bonds",
     "Date": "23/03/2023",
     "Description": "",
     "Websites": [
       "jfmanagement-nz.com",
-      "entity.",
-      "licensee."
+      "licensee.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WARNING: Validus ",
     "Date": "20/03/2023",
     "Description": "",
     "Websites": [
-      "validus.",
-      "dismissed.",
       "teamsvalidus.com",
-      "validus-team-official.com",
+      "dismissed.",
       "zealand.",
-      "teamvalidus.com"
+      "validus.",
+      "teamvalidus.com",
+      "validus-team-official.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert - CharterHoldingsLtd.com is illegally using the credentials of Charter Holdings Limited",
     "Date": "20/03/2023",
     "Description": "",
     "Websites": [
-      "zealand.",
       "charter",
       "solutions.",
-      "website."
+      "website.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake bond offer - esgbonds-nz.com / HSBCnz.com",
     "Date": "15/03/2023",
     "Description": "",
     "Websites": [
-      "account.",
-      "domains.",
+      "esgbonds-nz.com",
       "nature.",
       "them.",
+      "account.",
       "h",
-      "esgbonds-nz.com",
+      "domains.",
       "hsbcnz.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Phoney SBS Bank offers fake term-deposit investment ",
     "Date": "08/03/2023",
     "Description": "",
@@ -2001,17 +2208,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor warning: EZ Markets",
     "Date": "01/03/2023",
     "Description": "",
     "Websites": [
-      "2013.",
       "article.",
       "ezmarkets.io",
-      "business."
+      "business.",
+      "2013."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SW Investment Limited has offered fictitious share investment opportunities to a New Zealand resident and unreasonably withheld the money invested",
     "Date": "28/02/2023",
     "Description": "",
@@ -2021,18 +2230,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Magnitude Financial Group offering unrealistically high returns",
     "Date": "24/01/2023",
     "Description": "",
     "Websites": [
-      "magnitudefinancial-nz.co",
-      "residents.",
       "magnitudefinancial-nz.co.",
+      "entity.",
       "magnitudefinancialgroup.co.nz",
-      "entity."
+      "residents.",
+      "magnitudefinancial-nz.co"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "VB-FX falsely claims to be associated with Advazo Ltd.",
     "Date": "20/01/2023",
     "Description": "",
@@ -2043,6 +2254,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Reo Funds NZ Limited not registered to provide financial services in New Zealand",
     "Date": "20/12/2022",
     "Description": "",
@@ -2051,302 +2263,330 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert - Artemis Investment Limited is not registered to provide financial services in New Zealand",
     "Date": "19/12/2022",
     "Description": "",
     "Websites": [
-      "products.",
-      "limited."
+      "limited.",
+      "products."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Krypto Security charges non-existent fees",
     "Date": "12/12/2022",
     "Description": "",
     "Websites": [
-      "zealand.",
+      "govt.nz",
       "monies.",
-      "govt.nz"
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bay Exchange is not registered to provide financial services in New Zealand",
     "Date": "12/12/2022",
     "Description": "",
     "Websites": [
-      "zealand.",
       "bayexchange.com",
-      "exchange."
+      "exchange.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.ctrlex.com is not associated with financial service provider, CTRL Investments Limited",
     "Date": "08/12/2022",
     "Description": "",
     "Websites": [
-      "www.ctrlex.com.",
+      "permission.",
       "www.ctrlex.com",
-      "permission."
+      "www.ctrlex.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam involving IKICI",
     "Date": "05/12/2022",
     "Description": "",
     "Websites": [
-      "ikici.com",
-      "ikici.co",
+      "trade.ikici.net",
       "ikici.org",
-      "trade.ikici.net"
+      "ikici.com",
+      "ikici.co"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: coinfinancelimited.com is not registered to provide financial services in NZ",
     "Date": "05/12/2022",
     "Description": "",
     "Websites": [
-      "coinfinancelimited.com",
       "www.coinfinancelimited.com",
       "residents.",
+      "coinfinancelimited.com",
       "website.",
       "nwww.coinfinancelimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Oaklandholdingltd.net is not registered to provide financial services in NZ",
     "Date": "15/11/2022",
     "Description": "",
     "Websites": [
-      "oaklandholdingltd.net",
       "www.oaklandholdingltd.net",
-      "website."
+      "website.",
+      "oaklandholdingltd.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Invest-nz.org: false and misleading statements ",
     "Date": "11/11/2022",
     "Description": "",
     "Websites": [
-      "invest-nz.org.",
-      "invest-nz.org"
+      "invest-nz.org",
+      "invest-nz.org."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Lombard Holdings: Cold calling members of public about financial products",
     "Date": "04/11/2022",
     "Description": "",
     "Websites": [
-      "warning.",
-      "www.lombardholdings.com.",
       "lobardholdings.com",
-      "residents."
+      "www.lombardholdings.com.",
+      "residents.",
+      "warning."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Rabobank Sustainability Bond - phony bond offered by fake employee",
     "Date": "04/11/2022",
     "Description": "",
     "Websites": [
-      "them.",
       "zealanders.",
+      "them.",
       "comparefixedtermdeposits.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Individual claiming to work for FMA and cold calling members of the public ",
     "Date": "25/10/2022",
     "Description": "",
     "Websites": [
-      "phone.",
-      "website."
+      "website.",
+      "phone."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor warning: Easy Trade Investment not registered to provide financial services in New Zealand",
     "Date": "21/10/2022",
     "Description": "",
     "Websites": [
-      "www.easytradeinvestment.com.",
-      "easytradeinvestment.com"
+      "easytradeinvestment.com",
+      "www.easytradeinvestment.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Goldenchaseltd.com is impersonating a legitimate company in New Zealand ",
     "Date": "20/10/2022",
     "Description": "",
     "Websites": [
+      "n",
       "goldenchaseltd.com",
-      "residents.",
-      "n"
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cedar Financial Limited in breach of New Zealand financial markets legislation",
     "Date": "17/10/2022",
     "Description": "",
     "Websites": [
+      "zealand.",
+      "cedarfinancial.ltd",
       "account.",
       "website.",
-      "legislation.",
-      "zealand.",
-      "cedarfinancial.ltd"
+      "legislation."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about imposter websites: nzglobaltrading.com and nzglobaltrading.com/home",
     "Date": "10/10/2022",
     "Description": "",
     "Websites": [
-      "residents.",
       "entities.",
+      "nzglobaltrading.com",
       "websites.",
-      "nzglobaltrading.com"
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website alert: horizoncapital.ltd",
     "Date": "10/10/2022",
     "Description": "",
     "Websites": [
-      "horizoncapital.ltd.",
-      "horizoncapital.ltd"
+      "horizoncapital.ltd",
+      "horizoncapital.ltd."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam warning: Decentralised Application: deficit.info",
     "Date": "07/10/2022",
     "Description": "",
     "Websites": [
-      "deficat.info",
       "deficit.info",
-      "dapp.",
-      "scam."
+      "scam.",
+      "deficat.info",
+      "dapp."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: Kemik not registered to provide financial advice in New Zealand",
     "Date": "06/10/2022",
     "Description": "",
     "Websites": [
-      "register.",
       "kemik.",
       "www.kem-ik.com",
-      "www.kem"
+      "register."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GemsAssociate displays forged certificate of incorporation on website ",
     "Date": "06/10/2022",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "funds.",
       "gems-associate.com",
-      "website."
+      "funds.",
+      "website.",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "campartnersinvestment.org and cambridgeinvestmentsltd.com",
     "Date": "04/10/2022",
     "Description": "",
     "Websites": [
-      "cambridgeinvestmentsltd.com",
-      "website.",
+      "campartnersinvestment.org",
+      "www.cambridgeinvestmentsltd.com",
       "scam.",
       "www.campartnersinvestment.org",
-      "campartnersinvestment.org",
-      "www.cambridgeinvestmentsltd.com"
+      "cambridgeinvestmentsltd.com",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website: api-insurance-ltd.co",
     "Date": "04/10/2022",
     "Description": "",
     "Websites": [
-      "residents.",
       "www.api-insurance-ltd.co.",
       "api-insurance-ltd.co",
-      "www.api-insurance-ltd.co"
+      "www.api-insurance-ltd.co",
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA recommends caution when dealing with Whitcoin",
     "Date": "03/10/2022",
     "Description": "",
     "Websites": [
-      "whitcoinex.com",
-      "whitcoinpro.com.",
       "funds.",
       "websites.",
-      "whitcoinpro.com"
+      "whitcoinpro.com.",
+      "whitcoinpro.com",
+      "whitcoinex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website: farm-crypto.com",
     "Date": "23/09/2022",
     "Description": "",
     "Websites": [
-      "farm-crypto.com.",
       "website.",
-      "farm-crypto.com"
+      "farm-crypto.com",
+      "farm-crypto.com."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam alert: clean energy bonds offered by bnp-paribasclients",
     "Date": "19/09/2022",
     "Description": "",
     "Websites": [
+      "zealand.",
       "bonds.",
       "nz-investor.com",
-      "zealand.",
       "entity.",
       "bnp-paribasclients.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: Octavus Trade Limited is not registered in New Zealand",
     "Date": "15/09/2022",
     "Description": "",
     "Websites": [
-      "high.",
       "octavus.trade",
+      "high.",
       "a"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website: audaxtrading.net",
     "Date": "09/09/2022",
     "Description": "",
     "Websites": [
-      "t.me",
-      "audaxtrading.net"
+      "audaxtrading.net",
+      "t.me"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam operation, claiming to be offered by the NZ Super Fund, targeting New Zealanders ",
     "Date": "31/08/2022",
     "Description": "",
     "Websites": [
-      "online.",
       "permitted.",
-      "assets."
+      "assets.",
+      "online."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: Jensen and Partners, Financial Organisation for Foreign Equities, Palle Securities Group and Financial Services Inspectorate.",
     "Date": "24/08/2022",
     "Description": "",
     "Websites": [
       "www.pallesecurities.com",
-      "jensen-and-partners.com",
+      "www.fsi-gov.org",
       "fin-fe.org",
+      "jensen-and-partners.com",
       "shares.",
       "sweden.",
-      "www.fsi-gov.org",
       "inspectorate."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: Capital Heritage / capitalheritagelimited.com",
     "Date": "22/08/2022",
     "Description": "",
@@ -2355,6 +2595,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "South African regulator cautions investors about Prime Bright Investment",
     "Date": "12/08/2022",
     "Description": "",
@@ -2363,112 +2604,123 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: VHNX is not licensed to offer derivative trading services in New Zealand",
     "Date": "10/08/2022",
     "Description": "",
     "Websites": [
-      "fxrevenues.com",
-      "entity.",
       "vhnx.com",
-      "funds."
+      "fxrevenues.com",
+      "funds.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "bbcapital.com falsely using Black Bull Group identity",
     "Date": "10/08/2022",
     "Description": "",
     "Websites": [
-      "bbcapital.com",
       "scams.",
-      "bbcapitalmarket.com"
+      "bbcapitalmarket.com",
+      "bbcapital.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam warning: NZ Residents contacted through WhatsApp to trade in cryptocurrencies",
     "Date": "05/08/2022",
     "Description": "",
     "Websites": [
       "globvenop.vip",
-      "entity.",
-      "withdrawal."
+      "withdrawal.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: crypto trader, Global Ventures withholding funds",
     "Date": "02/08/2022",
     "Description": "",
     "Websites": [
       "www.globvenop.vip",
-      "entity.",
-      "withdrawal."
+      "withdrawal.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investors take note: information on Apex Capital Holdings website is misleading",
     "Date": "02/08/2022",
     "Description": "",
     "Websites": [
-      "entity.",
       "www.apexcapital-holdings.com",
       "activities.",
-      "residents."
+      "residents.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: New Zealanders receiving unsolicited contact from Quantree Investment representatives",
     "Date": "27/07/2022",
     "Description": "",
     "Websites": [
-      "entity.",
+      "www.quantreeinvestment.com",
       "scam.",
-      "www.quantreeinvestment.com"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about suspected scam/imposter website wardfs.com",
     "Date": "26/07/2022",
     "Description": "",
     "Websites": [
-      "www.wardfs.com",
       "scam.",
-      "wardfs.com",
-      "www.wardfs.com."
+      "www.wardfs.com",
+      "www.wardfs.com.",
+      "wardfs.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Citiclient-assets.com operating a term-deposit scam",
     "Date": "26/07/2022",
     "Description": "",
     "Websites": [
-      "deposit.",
-      "true.",
       "zealand.",
+      "deposit.",
       "entity.",
+      "true.",
       "citiclient-assets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning regarding unregistered business offering fake pre-IPO shares",
     "Date": "13/07/2022",
     "Description": "",
     "Websites": [
+      "enbridgeconsulting.com",
       "them.",
-      "entity.",
-      "enbridgeconsulting.com"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam alert: avistechlimited.com ",
     "Date": "08/07/2022",
     "Description": "",
     "Websites": [
-      "avistechlimited.com",
       "scam.",
       "website.",
-      "f"
+      "f",
+      "avistechlimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Crypto Bot using a fake news article",
     "Date": "01/07/2022",
     "Description": "",
@@ -2479,6 +2731,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Member of the public unable to withdraw funds invested with Maxi Finance",
     "Date": "23/06/2022",
     "Description": "",
@@ -2487,6 +2740,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam alert for OMF",
     "Date": "23/06/2022",
     "Description": "",
@@ -2495,17 +2749,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam: nesbittrusteeslimited.com",
     "Date": "21/06/2022",
     "Description": "",
     "Websites": [
-      "profits.",
       "nesbittrusteeslimited.com",
+      "profits.",
       "scam.",
       "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warning: E-capital Forex",
     "Date": "20/05/2022",
     "Description": "",
@@ -2515,54 +2771,59 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Forex trader and Crypto exchange, Gold Century Ventures may be operating a scam",
     "Date": "16/05/2022",
     "Description": "",
     "Websites": [
-      "entity.",
       "scam.",
-      "goldcenturyventures.com"
+      "goldcenturyventures.com",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: false claims by Onyx Group Limited",
     "Date": "02/05/2022",
     "Description": "",
     "Websites": [
-      "corporations.",
-      "website.",
       "funds.",
-      "mas.gov.sg",
+      "corporations.",
       "scam.",
-      "onyxgroupltd.com"
+      "onyxgroupltd.com",
+      "website.",
+      "mas.gov.sg"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about suspected scam: Big Uncle",
     "Date": "02/05/2022",
     "Description": "",
     "Websites": [
       "biguncle.co.uk",
-      "biguncle.uk",
       "biguncle.online",
-      "website.",
       "entity.",
       "biguncle.work",
-      "www.biguncle.work"
+      "biguncle.uk",
+      "www.biguncle.work",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA and Irish regulator issue warning about jms-icav.com",
     "Date": "28/04/2022",
     "Description": "",
     "Websites": [
-      "entity.",
       "j",
+      "jms-icav.com",
       "residents.",
-      "jms-icav.com"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam alert: Capital Maximus and My Trading College ",
     "Date": "28/04/2022",
     "Description": "",
@@ -2572,55 +2833,60 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about an imposter website: thelionhub.xyz",
     "Date": "27/04/2022",
     "Description": "",
     "Websites": [
-      "here.",
+      "thelionhub.xyz",
       "scam.",
-      "thelionhub.xyz"
+      "here."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns investors: allianceequities.ltd and alphabase.ltd are not associated with existing New Zealand companies",
     "Date": "13/04/2022",
     "Description": "",
     "Websites": [
+      "www.allianceequities.ltd",
+      "products.",
       "scam.www.allianceequities.ltd",
+      "companies.",
       "www.alphabase.ltd",
       "allianceequities.ltd",
-      "companies.",
-      "alphabase.ltd",
-      "www.allianceequities.ltd",
-      "products."
+      "alphabase.ltd"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: false claims by Finanex Limited ",
     "Date": "13/04/2022",
     "Description": "",
     "Websites": [
+      "zealand.",
+      "www.finanex.net",
       "cryptocurrencies.",
       "website.",
-      "www.finanex.net",
-      "unsubstantiated.",
-      "zealand."
+      "unsubstantiated."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns against illegal derivative services offered by Prime Capital Limited ",
     "Date": "13/04/2022",
     "Description": "",
     "Websites": [
-      "illegally.",
       "iprimecapital.com",
-      "member.iprimecapital.com",
       "limited.",
       "entity.",
+      "member.iprimecapital.com",
+      "illegally.",
       "www.iprimecapital.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Scam operation targeting New Zealand investors",
     "Date": "08/04/2022",
     "Description": "",
@@ -2629,256 +2895,279 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about a Decentralised Application: eth-coinbasemart.com",
     "Date": "29/03/2022",
     "Description": "",
     "Websites": [
-      "eth-coinbasemart.com",
-      "ethereum.org",
       "dapp.",
-      "scam."
+      "scam.",
+      "ethereum.org",
+      "eth-coinbasemart.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA cautions investors about financeassistlimited.com",
     "Date": "25/03/2022",
     "Description": "",
     "Websites": [
-      "website.",
-      "financeassistlimited.com",
+      "permission.",
       "www.financeassistlimited.com",
       "scam.",
-      "permission."
+      "website.",
+      "financeassistlimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA issues warning about croftcapital.ltd",
     "Date": "17/03/2022",
     "Description": "",
     "Websites": [
-      "croftcapital.",
+      "croftcapital.ltd",
       "above.",
-      "croftcapital.ltd"
+      "croftcapital."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WARNING: Capital Cycles Limited have falsely claimed that they are legally registered",
     "Date": "11/03/2022",
     "Description": "",
     "Websites": [
-      "www.capitalcycleslimited.com",
-      "capitalcycleslimited.com"
+      "capitalcycleslimited.com",
+      "www.capitalcycleslimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns that investors unable to recover funds paid to stallioncapital.net",
     "Date": "11/03/2022",
     "Description": "",
     "Websites": [
-      "website.",
       "scam.",
       "stallioncapital.net",
+      "website.",
       "www.stallioncapital.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investors unable to withdraw funds from EcoMarkets",
     "Date": "01/03/2022",
     "Description": "",
     "Websites": [
-      "eco",
-      "green."
+      "green.",
+      "eco"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns primefirmtrade.com unreasonably withholding investor funds",
     "Date": "22/02/2022",
     "Description": "",
     "Websites": [
-      "metasmarttrade.live",
-      "accounts.",
       "bitfidel.com",
-      "individuals.",
-      "scam.",
+      "accounts.",
       "primefirmtrade.com",
-      "entity."
+      "entity.",
+      "scam.",
+      "metasmarttrade.live",
+      "individuals."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investor alert: false claims by Leumi-vest.com",
     "Date": "21/02/2022",
     "Description": "",
     "Websites": [
-      "leumi-vest.net",
       "leumi-vest.com",
-      "website."
+      "website.",
+      "leumi-vest.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns about website venusfundslimited.com",
     "Date": "16/02/2022",
     "Description": "",
     "Websites": [
-      "scam.",
       "venusfundslimited.com",
-      "company.",
-      "website."
+      "scam.",
+      "website.",
+      "company."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Overseas regulator issues warning about Crypto Infinite Miners",
     "Date": "09/02/2022",
     "Description": "",
     "Websites": [
       "miners.",
-      "u.",
-      "residents.",
       "u",
       "entity.",
-      "miningcryptouniverse.com"
+      "miningcryptouniverse.com",
+      "u.",
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Imposter website alert: astral-trust.com",
     "Date": "09/02/2022",
     "Description": "",
     "Websites": [
-      "website.",
       "scam.",
-      "astral-trust.com"
+      "astral-trust.com",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns against an imposter website allianceholdingslimited.com offering unrealistically high returns",
     "Date": "21/12/2021",
     "Description": "",
     "Websites": [
-      "zealand.",
       "scam.",
       "company.",
+      "zealand.",
       "allianceholdingslimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "HyperFund",
     "Date": "20/12/2021",
     "Description": "",
     "Websites": [
-      "thehyperverse.net.",
-      "2021.",
-      "thehyperverse.net",
-      "scam.",
-      "hyper",
       "zealand.",
+      "2021.",
+      "thehyperverse.net.",
       "entity.",
       "warning.",
-      "thehyperfund.com"
+      "scam.",
+      "thehyperfund.com",
+      "hyper",
+      "thehyperverse.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "QuantumAI ",
     "Date": "20/12/2021",
     "Description": "",
     "Websites": [
       "2021.",
-      "thebigdatas.tech",
+      "quantumai.investerscorp.com",
       "the-quantum-tech.com",
-      "websites.",
       "safe-investment-daily.com",
-      "quantumai.investerscorp.com"
+      "websites.",
+      "thebigdatas.tech"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warning: false and misleading claims by CapitalInvestments.com",
     "Date": "20/12/2021",
     "Description": "",
     "Websites": [
+      "funds.",
       "name.",
-      "capital",
       "residents.",
-      "website.",
-      "funds."
+      "capital",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA raises red flags about Bitminerpool Limited",
     "Date": "16/12/2021",
     "Description": "",
     "Websites": [
       "scam.",
-      "funds.",
-      "bitminerpool.com"
+      "bitminerpool.com",
+      "funds."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investment warning concerning Maesara Investments Limited",
     "Date": "16/12/2021",
     "Description": "",
     "Websites": [
-      "register.",
+      "scam.",
       "email.",
-      "www.maesara.com",
-      "scam."
+      "register.",
+      "www.maesara.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cryptocurrency trading without consent - Warning about kiwi-ex.com website and kiwicoinex.com",
     "Date": "16/12/2021",
     "Description": "",
     "Websites": [
-      "scam.",
-      "other.",
-      "zealand.",
-      "kiwi-ex.com",
       "kiwicoinex.com",
-      "www.kiwi-ex.com"
+      "zealand.",
+      "www.kiwi-ex.com",
+      "other.",
+      "scam.",
+      "kiwi-ex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam and imposter website twinfs.com",
     "Date": "15/12/2021",
     "Description": "",
     "Websites": [
-      "twinfs.com",
       "scam.",
-      "www.twinfs.com"
+      "www.twinfs.com",
+      "twinfs.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Website scam warning for blackwood-investment.com",
     "Date": "14/12/2021",
     "Description": "",
     "Websites": [
       "www.blackwood-investment.com",
-      "shares.",
-      "website.",
+      "blackwood-investment.com",
       "limited.",
-      "blackwood-investment.com"
+      "shares.",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA issues warning that www.hubert-acker.com impersonating overseas broker",
     "Date": "10/12/2021",
     "Description": "",
     "Websites": [
-      "services.",
-      "www.hubert-acker.com",
-      "2013.",
+      "nymergersinc.com",
       "entities.",
-      "nymergersinc.com"
+      "services.",
+      "2013.",
+      "www.hubert-acker.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA receives complaint about www.tm-mgmt.com offering shares in fictitious IPO",
     "Date": "07/12/2021",
     "Description": "",
     "Websites": [
-      "entity.",
       "www.tm-mgmt.com",
-      "residents."
+      "residents.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA issues warning to investors about Leadway Investment Group ",
     "Date": "07/12/2021",
     "Description": "",
@@ -2889,86 +3178,94 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Belgium and UK regulators place Immediate Edge on investor caution list",
     "Date": "03/12/2021",
     "Description": "",
     "Websites": [
       "www.immediate-edge.co",
-      "entity.",
       "list.",
-      "residents."
+      "residents.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning about toddenergyinvestment.com",
     "Date": "02/12/2021",
     "Description": "",
     "Websites": [
-      "toddenergyinvestment.com",
-      "website.",
       "www.toddenergyinvestments.com",
       "toddenergyinvestments.com",
       "scam.",
       "www.toddenergyinvestment.com",
-      "windows."
+      "windows.",
+      "website.",
+      "toddenergyinvestment.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "International regulator warning: www.skywinprofit.com",
     "Date": "30/11/2021",
     "Description": "",
     "Websites": [
-      "www.skywinprofit.com",
+      "2012.",
+      "entities.",
       "services.",
       "below.",
-      "2012.",
       "website.",
-      "entities."
+      "www.skywinprofit.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitengecko",
     "Date": "29/11/2021",
     "Description": "",
     "Websites": [
-      "www.fsma.be",
-      "www.bitengecko.com"
+      "www.bitengecko.com",
+      "www.fsma.be"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.oceaniatradinggroup.com",
     "Date": "25/11/2021",
     "Description": "",
     "Websites": [
-      "oceaniatradinggroup.com",
-      "www.oceaniatradinggroup.com"
+      "www.oceaniatradinggroup.com",
+      "oceaniatradinggroup.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning about pribizco.com and pbfx.asia websites",
     "Date": "25/11/2021",
     "Description": "",
     "Websites": [
-      "trading.",
-      "we",
-      "pbfx.asia",
       "websites.",
-      "f",
-      "pribizco.com"
+      "we",
+      "trading.",
+      "pribizco.com",
+      "pbfx.asia",
+      "f"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Adler Acquisitions and Financial Services Inspectorate (Finansiell Tj\u00e4nster Inspektorat)",
     "Date": "15/11/2021",
     "Description": "",
     "Websites": [
       "www.fsi-gov.org",
       "scam.",
-      "released.",
-      "www."
+      "www.",
+      "released."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.osakalenders.com ",
     "Date": "10/11/2021",
     "Description": "",
@@ -2978,15 +3275,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "tcnewhorizon.com",
     "Date": "03/11/2021",
     "Description": "",
     "Websites": [
-      "www.tcnewhorizon.com",
-      "tcnewhorizon.com"
+      "tcnewhorizon.com",
+      "www.tcnewhorizon.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bloom Wealth ",
     "Date": "27/10/2021",
     "Description": "",
@@ -2995,16 +3294,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Income Analysts ",
     "Date": "21/10/2021",
     "Description": "",
     "Websites": [
+      "www.incomeanalysts.net",
       "returns.",
-      "analysts.",
-      "www.incomeanalysts.net"
+      "analysts."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "magnaumbrellafund.org",
     "Date": "20/10/2021",
     "Description": "",
@@ -3014,6 +3315,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam involving persons purporting to be from the Financial Markets Authority",
     "Date": "20/10/2021",
     "Description": "",
@@ -3022,28 +3324,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GTV Media Group Inc",
     "Date": "12/10/2021",
     "Description": "",
     "Websites": [
-      "www.gclubs.com",
-      "corp.gtv.com",
       "gtv.org",
-      "inc."
+      "inc.",
+      "corp.gtv.com",
+      "www.gclubs.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TradeVtech / UMedia LLC",
     "Date": "11/10/2021",
     "Description": "",
     "Websites": [
       "zealand.",
-      "rules.",
       "l",
+      "rules.",
       "www.tradevtech.net"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "bitsharechain.com",
     "Date": "04/10/2021",
     "Description": "",
@@ -3052,6 +3357,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Avan Investment",
     "Date": "04/10/2021",
     "Description": "",
@@ -3060,6 +3366,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.investgloballimited.com",
     "Date": "01/10/2021",
     "Description": "",
@@ -3068,6 +3375,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "merlingrouplimited.com",
     "Date": "29/09/2021",
     "Description": "",
@@ -3077,16 +3385,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suspected scam involving persons purporting to be from the FMA",
     "Date": "24/09/2021",
     "Description": "",
     "Websites": [
-      "trust.",
       "scam.",
-      "public."
+      "public.",
+      "trust."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TraderFex",
     "Date": "22/09/2021",
     "Description": "",
@@ -3095,6 +3405,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cryptominingnz",
     "Date": "21/09/2021",
     "Description": "",
@@ -3103,6 +3414,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Berkeley Finance",
     "Date": "21/09/2021",
     "Description": "",
@@ -3111,6 +3423,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "platformcapitalucits-icav.com ",
     "Date": "20/09/2021",
     "Description": "",
@@ -3120,27 +3433,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Green Tower Investments",
     "Date": "20/09/2021",
     "Description": "",
     "Websites": [
-      "entity.",
+      "investments.",
       "www.greentowerinv.com",
+      "entity.",
       "residents.",
-      "investments."
+      "greentowerinv.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "InvestXE",
     "Date": "15/09/2021",
     "Description": "",
     "Websites": [
-      "investxe.com",
       "scam.",
+      "investxe.com",
       "investment."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "digitalbit.com",
     "Date": "14/09/2021",
     "Description": "",
@@ -3149,6 +3466,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "consdorf.com",
     "Date": "13/09/2021",
     "Description": "",
@@ -3157,16 +3475,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcoin Kiwi System Limited",
     "Date": "06/09/2021",
     "Description": "",
     "Websites": [
-      "bitcoinkiwisystem.investerscorp.com",
+      "lavacrea.com",
       "btckiwisys.com",
-      "lavacrea.com"
+      "bitcoinkiwisystem.investerscorp.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "tradinginsiders.eu",
     "Date": "31/08/2021",
     "Description": "",
@@ -3175,6 +3495,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "zesprilimited.com",
     "Date": "24/08/2021",
     "Description": "",
@@ -3184,26 +3505,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "crowntradeltd.com",
     "Date": "24/08/2021",
     "Description": "",
     "Websites": [
-      "crowntradeltd.com",
-      "www.crowntradeltd.com"
+      "www.crowntradeltd.com",
+      "crowntradeltd.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "crypto-boosts.com",
     "Date": "18/08/2021",
     "Description": "",
     "Websites": [
       "permission.www.crypto-boosts.com",
+      "www.crypto-boosts.com",
       "scam.",
-      "crypto-boosts.com",
-      "www.crypto-boosts.com"
+      "crypto-boosts.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Starlink IPO scams",
     "Date": "09/08/2021",
     "Description": "",
@@ -3213,6 +3537,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "virtualonecunion.com",
     "Date": "26/07/2021",
     "Description": "",
@@ -3223,6 +3548,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.rockfortmarket.net",
     "Date": "19/07/2021",
     "Description": "",
@@ -3231,6 +3557,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.rockfortcrypto.com",
     "Date": "19/07/2021",
     "Description": "",
@@ -3239,6 +3566,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.rockfort-markets.com",
     "Date": "19/07/2021",
     "Description": "",
@@ -3247,6 +3575,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "forexdce.com",
     "Date": "15/07/2021",
     "Description": "",
@@ -3256,49 +3585,54 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "blackwallplatform.com ",
     "Date": "14/07/2021",
     "Description": "",
     "Websites": [
-      "www.blackwallplatform.com",
-      "blackwallplatform.com"
+      "blackwallplatform.com",
+      "www.blackwallplatform.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "jmitfs.com",
     "Date": "14/07/2021",
     "Description": "",
     "Websites": [
-      "michael.hopkins",
-      "employment.",
-      "website.",
-      "party.",
       "permission.www.jmitfs.com",
+      "sorted.org.nz",
+      "employment.",
+      "party.",
       "www.jmitfs.com",
-      "jmitfs.com"
+      "jmitfs.com",
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.ukg-forex.com and www.ukgforex.com",
     "Date": "01/07/2021",
     "Description": "",
     "Websites": [
-      "www.ukgforex.com",
-      "www.ukg-forex.com"
+      "www.ukg-forex.com",
+      "www.ukgforex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "coastalinvestmentltd.com ",
     "Date": "11/06/2021",
     "Description": "",
     "Websites": [
-      "coastalinvestmentltd.com",
+      "www.coastalinvestmentltd.com",
       "permission.www.coastalinvestmentltd.com",
-      "scam.",
-      "www.coastalinvestmentltd.com"
+      "coastalinvestmentltd.com",
+      "scam."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "strandcapital.io",
     "Date": "28/05/2021",
     "Description": "",
@@ -3309,6 +3643,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "belgrovefinance.com",
     "Date": "28/05/2021",
     "Description": "",
@@ -3318,19 +3653,21 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Karatbars International GmbH, Karatbit Foundation and associated companies, Freebay",
     "Date": "26/05/2021",
     "Description": "",
     "Websites": [
+      "index.html",
       "www.karatbars.com",
-      "coin.",
-      "dev.goldstandardbank.group",
-      "freebay.",
       "christchurch.",
-      "index.html"
+      "dev.goldstandardbank.group",
+      "coin.",
+      "freebay."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "reckoninvestments.com",
     "Date": "17/05/2021",
     "Description": "",
@@ -3340,6 +3677,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Walton Chase",
     "Date": "07/05/2021",
     "Description": "",
@@ -3349,28 +3687,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "equitycorp.org",
     "Date": "06/05/2021",
     "Description": "",
     "Websites": [
-      "equitycorp.org",
       "permission.",
-      "scam.www.equitycorp.org",
-      "www.equitycorp.org"
+      "www.equitycorp.org",
+      "equitycorp.org",
+      "scam.www.equitycorp.org"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Business Choice Partners Group Limited",
     "Date": "22/04/2021",
     "Description": "",
     "Websites": [
-      "www.richnessep.com",
+      "index.html",
       "www.bcpgltdmarkets.com",
       "www.bcpgltd.com",
-      "index.html"
+      "www.richnessep.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "beaventrusteesltd.com",
     "Date": "13/04/2021",
     "Description": "",
@@ -3380,15 +3721,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cash Forex Group/CashFX",
     "Date": "09/04/2021",
     "Description": "",
     "Websites": [
-      "cashfxgroup.com",
-      "group."
+      "group.",
+      "cashfxgroup.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Haggart, Eckhoff and Associates",
     "Date": "07/04/2021",
     "Description": "",
@@ -3398,73 +3741,80 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "baycaminvestment.com",
     "Date": "26/03/2021",
     "Description": "",
     "Websites": [
-      "baycaminvestment.com",
-      "www.baycaminvestment.com"
+      "www.baycaminvestment.com",
+      "baycaminvestment.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BitQT",
     "Date": "26/03/2021",
     "Description": "",
     "Websites": [
-      "bitqt.org",
+      "theinvest-news.com",
       "u",
-      "bitqt-app.com",
-      "incorrect.",
+      "bitqt.org",
       "scam.",
       "bit",
       "trader.",
-      "theinvest-news.com"
+      "incorrect.",
+      "bitqt-app.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ghctrades.com and in-tan.com",
     "Date": "24/03/2021",
     "Description": "",
     "Websites": [
+      "zealand.www.ghctrades.com",
+      "in-tan.com",
+      "www.in-tan.com",
       "permission.www.ghctrades.com",
       "www.ghctrades.com",
-      "ghctrades.com",
-      "in-tan.com",
-      "zealand.www.ghctrades.com",
-      "www.in-tan.com"
+      "ghctrades.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.horizonlinelimited.com",
     "Date": "12/03/2021",
     "Description": "",
     "Websites": [
-      "permission.www.",
+      "www.horizonlinelimited.com",
       "investments.",
-      "www.horizonlinelimited.com"
+      "permission.www."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.cjcmarketsglobal.biz",
     "Date": "12/03/2021",
     "Description": "",
     "Websites": [
-      "www.cjcmarketsglobal.biz",
       "authority.",
+      "www.cjcmarketsglobal.biz",
       "cjcmarkets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.canztrades.com ",
     "Date": "12/03/2021",
     "Description": "",
     "Websites": [
-      "misleading.",
       "www.canztrades.com",
-      "website."
+      "website.",
+      "misleading."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Asset Partners ",
     "Date": "09/03/2021",
     "Description": "",
@@ -3473,50 +3823,55 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Evorich (formerly New Economic Evolution of the World and Skyway Investment Group)",
     "Date": "02/03/2021",
     "Description": "",
     "Websites": [
-      "www.mycryptounit.com",
-      "islands.",
-      "www.skywayinvestgroup.com",
-      "cryptocurrencies.",
-      "scam.",
-      "limited.",
       "www.tng-neew.com",
       "evo-rich.com",
-      "www.my-cryptounit.com"
+      "www.mycryptounit.com",
+      "www.my-cryptounit.com",
+      "limited.",
+      "scam.",
+      "www.skywayinvestgroup.com",
+      "cryptocurrencies.",
+      "islands."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Aplexva",
     "Date": "02/03/2021",
     "Description": "",
     "Websites": [
-      "aplexva.com",
-      "limestonefx.com"
+      "limestonefx.com",
+      "aplexva.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "norgroveassociatesltd.com",
     "Date": "24/02/2021",
     "Description": "",
     "Websites": [
-      "norgroveassociatesltd.com",
       "www.norgroveassociatesltd.com",
-      "funds."
+      "funds.",
+      "norgroveassociatesltd.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "500 Investments/ Cabsy Holdings Ltd",
     "Date": "19/02/2021",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "www.500investments.com"
+      "www.500investments.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CompareForexBrokers",
     "Date": "16/02/2021",
     "Description": "",
@@ -3525,26 +3880,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "platinumpartnerslimited.com",
     "Date": "11/02/2021",
     "Description": "",
     "Websites": [
-      "platinumpartnerslimited.com",
-      "investments."
+      "investments.",
+      "platinumpartnerslimited.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "winngroups.com and winngc.com",
     "Date": "02/02/2021",
     "Description": "",
     "Websites": [
-      "winngc.com",
       "www.winngroups.com",
+      "winngc.com",
       "www.winngc.com",
       "winngroups.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Steiner Greves",
     "Date": "02/02/2021",
     "Description": "",
@@ -3554,16 +3912,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Wendav Limited (Wendav)",
     "Date": "26/01/2021",
     "Description": "",
     "Websites": [
-      "scam.",
       "www.wendavlimited.com",
+      "scam.",
       "false."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ding Sheng International Co. Ltd",
     "Date": "23/12/2020",
     "Description": "",
@@ -3572,39 +3932,43 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "elezenocap.com",
     "Date": "22/12/2020",
     "Description": "",
     "Websites": [
-      "www.sfc.hk",
       "elezenocap.com",
+      "www.sfc.hk",
       "thatwww.elezenocap.com",
       "www.elezenocap.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Clearing Falcon Group Limited, Genuine Progress Index Limited and Yunma Tianlong International Consulting Co., Limited",
     "Date": "18/12/2020",
     "Description": "",
     "Websites": [
       "yunma.",
-      "residents.",
-      "clearingfalcon.com",
       "entities.",
+      "clearingfalcon.com",
+      "residents.",
       "www.gpimarkets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ISB Global Miners (also known as: Waxco Trading)",
     "Date": "17/12/2020",
     "Description": "",
     "Websites": [
-      "www.waxcotrading.com.",
       "www.isbglobalminers.com",
+      "www.waxcotrading.com.",
       "www.waxcotrading.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Sixon Investments",
     "Date": "17/12/2020",
     "Description": "",
@@ -3613,6 +3977,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Paradox Therapeutics",
     "Date": "17/12/2020",
     "Description": "",
@@ -3621,15 +3986,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "YuanPay Group",
     "Date": "24/11/2020",
     "Description": "",
     "Websites": [
-      "yuanpaymentsys.com",
-      "yuanpaygroup.com"
+      "yuanpaygroup.com",
+      "yuanpaymentsys.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "bslcorporationltd.co",
     "Date": "24/11/2020",
     "Description": "",
@@ -3639,26 +4006,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZ Shell Catalysts & Technologies Limited",
     "Date": "23/11/2020",
     "Description": "",
     "Websites": [
-      "scam.",
       "catalysts.finance",
-      "residents.",
-      "false."
+      "scam.",
+      "false.",
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fake/Cloned FCA Email ",
     "Date": "20/11/2020",
     "Description": "",
     "Websites": [
-      "www.fca.org.uk",
-      "questionnaire."
+      "questionnaire.",
+      "www.fca.org.uk"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Yifeng Meng and Ling Sen Luo",
     "Date": "11/11/2020",
     "Description": "",
@@ -3667,6 +4037,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Carrera Corporation Ltd",
     "Date": "05/11/2020",
     "Description": "",
@@ -3675,26 +4046,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Howden Global Acquisition Group ",
     "Date": "19/10/2020",
     "Description": "",
     "Websites": [
-      "entity.",
       "howdenglobalag.com",
-      "records."
+      "records.",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "United Commonwealth Financial Protection Board",
     "Date": "19/10/2020",
     "Description": "",
     "Websites": [
-      "entity.",
+      "www.ucfpb.org",
       "states.",
-      "www.ucfpb.org"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Crypt-opay ",
     "Date": "16/10/2020",
     "Description": "",
@@ -3703,17 +4077,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Royals FX",
     "Date": "07/10/2020",
     "Description": "",
     "Websites": [
-      "www.fca.org.uk",
       "scam.",
       "royalsfx.co",
-      "www.finma.ch"
+      "www.finma.ch",
+      "www.fca.org.uk"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "KML Investments Limited",
     "Date": "30/09/2020",
     "Description": "",
@@ -3722,15 +4098,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinsure LTD",
     "Date": "30/09/2020",
     "Description": "",
     "Websites": [
-      "coinsure.ltd",
-      "made."
+      "made.",
+      "coinsure.ltd"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CTX Prime",
     "Date": "30/09/2020",
     "Description": "",
@@ -3739,6 +4117,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcoin System",
     "Date": "30/09/2020",
     "Description": "",
@@ -3747,15 +4126,16 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investam HK (Investam-HK)",
     "Date": "30/09/2020",
     "Description": "",
     "Websites": [
-      "www.investam-hk.com",
-      "www.investam"
+      "www.investam-hk.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Acquisition Direct Facilitators",
     "Date": "22/09/2020",
     "Description": "",
@@ -3764,35 +4144,39 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinsave",
     "Date": "21/09/2020",
     "Description": "",
     "Websites": [
       "coinsave.ltd",
-      "limited.",
-      "website."
+      "website.",
+      "limited."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Principle Forsakrings Holdings",
     "Date": "16/09/2020",
     "Description": "",
     "Websites": [
-      "zealand.",
+      "www.pfabholdings.com",
       "scam.",
-      "www.pfabholdings.com"
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Holding Investment",
     "Date": "15/09/2020",
     "Description": "",
     "Websites": [
-      "holdinginvestment.ltd",
-      "scam."
+      "scam.",
+      "holdinginvestment.ltd"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "G.R.C Trustee",
     "Date": "15/09/2020",
     "Description": "",
@@ -3801,47 +4185,52 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": " Alioth Club",
     "Date": "15/09/2020",
     "Description": "",
     "Websites": [
-      "alioth.club",
-      "www.facebook.com"
+      "www.facebook.com",
+      "alioth.club"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Promarkets",
     "Date": "14/09/2020",
     "Description": "",
     "Websites": [
-      "zealand.",
+      "case.",
       "www.promarketsonline.com",
-      "case."
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinvest",
     "Date": "14/09/2020",
     "Description": "",
     "Websites": [
-      "coinvest.ltd",
-      "investors."
+      "investors.",
+      "coinvest.ltd"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ICX Capital Ltd (currently known as\u5609\u76db\u56fd\u9645)",
     "Date": "10/09/2020",
     "Description": "",
     "Websites": [
-      "www.icxcl.com",
-      "www.emcmltd.com",
-      "index.php",
       "www.icxfor.com",
+      "www.emcmltd.com",
+      "www.lx-markets.com",
       "respectively.",
-      "www.lx-markets.com"
+      "www.icxcl.com",
+      "index.php"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "AFOManagement",
     "Date": "07/09/2020",
     "Description": "",
@@ -3850,16 +4239,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Unitex Capital Limited",
     "Date": "02/09/2020",
     "Description": "",
     "Websites": [
-      "ltd.unitexcapital",
       "www.facebook.com",
+      "ltd.unitexcapital",
       "unitex-capital.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA impersonated in suspected money remittance scam",
     "Date": "02/09/2020",
     "Description": "",
@@ -3869,50 +4260,55 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Intrgroups/ Intrgroup",
     "Date": "01/09/2020",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "www.intrgroups.com"
+      "www.intrgroups.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Marketing Giant",
     "Date": "01/09/2020",
     "Description": "",
     "Websites": [
       "marketingiant.com",
-      "residents.",
-      "quatro.marketingiant.com"
+      "quatro.marketingiant.com",
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.gold8financialexchange.com; www.gold8services.com and www.gold8institute.com",
     "Date": "21/08/2020",
     "Description": "",
     "Websites": [
-      "www.fourtryfinancialsg.com",
-      "www.gold8services.com",
+      "www.gold8financialexchange.com",
       "www.gold8institute.com",
-      "www.gold8financialexchange.com"
+      "www.gold8services.com",
+      "www.fourtryfinancialsg.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Knight Service Group Limited and Knight Market Limited",
     "Date": "21/08/2020",
     "Description": "",
     "Websites": [
+      "market.",
       "www.ksgmarkets.com",
+      "www.knightmarketltd.com",
+      "scam.",
       "here.",
       "ksgmarkets.com",
-      "index.php",
-      "market.",
-      "scam.",
-      "www.knightmarketltd.com"
+      "index.php"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "innovestltd.com",
     "Date": "21/08/2020",
     "Description": "",
@@ -3922,6 +4318,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "acentrustltd.com",
     "Date": "21/08/2020",
     "Description": "",
@@ -3930,17 +4327,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "RB Options",
     "Date": "19/08/2020",
     "Description": "",
     "Websites": [
-      "www.iqoption.com",
-      "scam.",
       "www.iqoption.com.",
+      "scam.",
+      "www.iqoption.com",
       "www.rboptions.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ivory Option",
     "Date": "19/08/2020",
     "Description": "",
@@ -3949,16 +4348,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "The Mayhill Agency (TMA)  ",
     "Date": "12/08/2020",
     "Description": "",
     "Websites": [
+      "www.themayhillagency.com",
       "scam.",
-      "l",
-      "www.themayhillagency.com"
+      "l"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitmarket",
     "Date": "07/08/2020",
     "Description": "",
@@ -3967,30 +4368,33 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TFR Global and Merlin Biotechnologies ",
     "Date": "07/08/2020",
     "Description": "",
     "Websites": [
-      "www.tfrglobal.com",
-      "merlinbiotech.com"
+      "merlinbiotech.com",
+      "www.tfrglobal.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "MetalsWise / MetalWise",
     "Date": "06/08/2020",
     "Description": "",
     "Websites": [
-      "2020.",
-      "www.metalswise.com",
-      "metal",
-      "s.",
-      "metalswise.com",
-      "scam.",
       "caution.",
-      "businesses."
+      "metalswise.com",
+      "www.metalswise.com",
+      "scam.",
+      "businesses.",
+      "s.",
+      "2020.",
+      "metal"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Great Motivation International ",
     "Date": "05/08/2020",
     "Description": "",
@@ -4000,26 +4404,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcoin Era",
     "Date": "23/07/2020",
     "Description": "",
     "Websites": [
-      "bitcoinerapro.com",
-      "en.profitmaximizer-app.com",
       "bitcoineras.com",
-      "era."
+      "era.",
+      "bitcoinerapro.com",
+      "en.profitmaximizer-app.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "StarkMarkets",
     "Date": "14/07/2020",
     "Description": "",
     "Websites": [
-      "ap.11.",
-      "starkmarkets.com"
+      "starkmarkets.com",
+      "ap.11."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Libra Markets/Libramarkets",
     "Date": "14/07/2020",
     "Description": "",
@@ -4028,16 +4435,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "World Markets ",
     "Date": "13/07/2020",
     "Description": "",
     "Websites": [
-      "entity.",
+      "worldmarkets.com",
       "scam.",
-      "worldmarkets.com"
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.aintreefinance.com",
     "Date": "25/06/2020",
     "Description": "",
@@ -4048,6 +4457,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WDC Markets",
     "Date": "24/06/2020",
     "Description": "",
@@ -4056,15 +4466,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Mana Atua Mana Maori and Sovereign Global Bank of Aotearoa ",
     "Date": "27/05/2020",
     "Description": "",
     "Websites": [
-      "law.",
-      "www.atua-gov.org"
+      "www.atua-gov.org",
+      "law."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Altrice Investment Co. Limited ",
     "Date": "20/05/2020",
     "Description": "",
@@ -4074,17 +4486,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Techvision",
     "Date": "15/05/2020",
     "Description": "",
     "Websites": [
       "www.techvision.net",
-      "techvisionltd.online",
       "nz.linkedin.com",
+      "techvisionltd.online",
       "www.youtube.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.accessfinancenz.com ",
     "Date": "23/04/2020",
     "Description": "",
@@ -4093,6 +4507,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Horse Forex",
     "Date": "15/04/2020",
     "Description": "",
@@ -4102,6 +4517,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.worldclear.cloudtree.co",
     "Date": "07/04/2020",
     "Description": "",
@@ -4110,6 +4526,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Profit Bitcoin",
     "Date": "06/04/2020",
     "Description": "",
@@ -4120,6 +4537,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.icoinlimited.co.nz",
     "Date": "03/04/2020",
     "Description": "",
@@ -4128,6 +4546,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "https://nex.cool ",
     "Date": "01/04/2020",
     "Description": "",
@@ -4136,16 +4555,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tung Shun Securities Limited and AB Research Partners Inc. ",
     "Date": "25/03/2020",
     "Description": "",
     "Websites": [
-      "www.abrp-inc.com",
       "www.ts-securities.com",
-      "inc."
+      "inc.",
+      "www.abrp-inc.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trade99",
     "Date": "12/03/2020",
     "Description": "",
@@ -4154,6 +4575,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SL Markets",
     "Date": "24/02/2020",
     "Description": "",
@@ -4162,17 +4584,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "http://www.bollnz.com, https://hylbb.com, https://www.bollcheng.com and https://bollst.com",
     "Date": "20/02/2020",
     "Description": "",
     "Websites": [
-      "hylbb.com",
       "www.bollnz.com",
+      "hylbb.com",
       "www.bollcheng.com",
       "bollst.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ashimoto Kogyo Co. Ltd",
     "Date": "19/02/2020",
     "Description": "",
@@ -4181,6 +4605,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IOS Investments Limited",
     "Date": "13/02/2020",
     "Description": "",
@@ -4189,6 +4614,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "bacfinancelimited.com",
     "Date": "13/02/2020",
     "Description": "",
@@ -4198,6 +4624,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "North American Securities Transfer",
     "Date": "04/02/2020",
     "Description": "",
@@ -4206,6 +4633,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vowfx",
     "Date": "03/02/2020",
     "Description": "",
@@ -4214,6 +4642,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Halsted Holdings Limited",
     "Date": "28/01/2020",
     "Description": "",
@@ -4222,6 +4651,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tower Hill Limited ",
     "Date": "17/01/2020",
     "Description": "",
@@ -4230,6 +4660,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GG Trade International Ltd, Boulder Wealth GG Trade and Jinshi Global Financial Group",
     "Date": "13/01/2020",
     "Description": "",
@@ -4238,26 +4669,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "https://bw-holdings.com/, https://fac-limited.com, https://vip-deposit.com/ and www.karnz.com",
     "Date": "20/12/2019",
     "Description": "",
     "Websites": [
-      "www.karnz.com",
       "fac-limited.com",
       "vip-deposit.com",
-      "bw-holdings.com"
+      "bw-holdings.com",
+      "www.karnz.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fun Managers",
     "Date": "19/12/2019",
     "Description": "",
     "Websites": [
-      "fmswa.com",
-      "squareddirect.com"
+      "squareddirect.com",
+      "fmswa.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cryptolimited.net",
     "Date": "19/12/2019",
     "Description": "",
@@ -4266,6 +4700,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Glenn Hamilton & Partners LLC",
     "Date": "19/12/2019",
     "Description": "",
@@ -4274,6 +4709,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "DBS Securities Limited",
     "Date": "19/12/2019",
     "Description": "",
@@ -4282,6 +4718,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BZ Finance Invest",
     "Date": "18/12/2019",
     "Description": "",
@@ -4290,6 +4727,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Atlanta Mediation Group",
     "Date": "18/12/2019",
     "Description": "",
@@ -4298,6 +4736,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trendingraphs (Premium Systems)",
     "Date": "17/12/2019",
     "Description": "",
@@ -4306,30 +4745,33 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Thompson Mergers",
     "Date": "17/12/2019",
     "Description": "",
     "Websites": [
       "japan.",
-      "funds.",
-      "contact.",
       "www.thompsonmergers.com.",
-      "www.thompsonmergers.com"
+      "funds.",
+      "www.thompsonmergers.com",
+      "contact."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Orion Holdings Capital Management and OH Capital",
     "Date": "11/12/2019",
     "Description": "",
     "Websites": [
       "parties.",
-      "ohcapital.com",
-      "capacity.",
       "kong.",
-      "www.ohcmgmt.com"
+      "capacity.",
+      "www.ohcmgmt.com",
+      "ohcapital.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Suisse Credit Capital Limited",
     "Date": "28/11/2019",
     "Description": "",
@@ -4338,6 +4780,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Sanderson International",
     "Date": "28/11/2019",
     "Description": "",
@@ -4346,6 +4789,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.harbour-corp.com",
     "Date": "20/11/2019",
     "Description": "",
@@ -4354,6 +4798,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Crests Financial",
     "Date": "15/11/2019",
     "Description": "",
@@ -4362,27 +4807,30 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Green Knight Financial Services ",
     "Date": "13/11/2019",
     "Description": "",
     "Websites": [
-      "scam.",
       "states.",
-      "greenknightfinancialservices.com"
+      "greenknightfinancialservices.com",
+      "scam."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Alderbrook Capital Management ",
     "Date": "13/11/2019",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "www.alderbrookcapital.com",
+      "services.",
       "www.sec.gov",
-      "services."
+      "zealand.",
+      "www.alderbrookcapital.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Swift Wealth Recovery ",
     "Date": "13/11/2019",
     "Description": "",
@@ -4392,46 +4840,51 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "McKenzie International Investments",
     "Date": "12/11/2019",
     "Description": "",
     "Websites": [
-      "zealand.",
       "scam.",
-      "mckenzieinternationalinvestments.com"
+      "mckenzieinternationalinvestments.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "alltrademarkets",
     "Date": "05/11/2019",
     "Description": "",
     "Websites": [
-      "capital.",
-      "regulator.",
       "alltrademarkets.com",
-      "residents."
+      "regulator.",
+      "residents.",
+      "capital."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GL-FX",
     "Date": "27/09/2019",
     "Description": "",
     "Websites": [
-      "gl-fx.net",
       "www.facebook.com",
+      "gl-fx.net",
       "twitter.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Circleforex and Yuanhui    ",
     "Date": "26/09/2019",
     "Description": "",
     "Websites": [
-      "www.circleforex.com",
-      "incorrect."
+      "incorrect.",
+      "www.circleforex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "55CMT",
     "Date": "25/09/2019",
     "Description": "",
@@ -4440,6 +4893,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WFE Capital",
     "Date": "20/09/2019",
     "Description": "",
@@ -4448,6 +4902,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ashwood Holdings Limited",
     "Date": "13/09/2019",
     "Description": "",
@@ -4456,36 +4911,40 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TradeLTD",
     "Date": "10/09/2019",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "www.tradeltd.com"
+      "www.tradeltd.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coinbrokerz",
     "Date": "04/09/2019",
     "Description": "",
     "Websites": [
-      "name.",
+      "www.coinbrokerz.com",
       "scam.",
       "www.coinbrokerz.io",
-      "www.coinbrokerz.com"
+      "name."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Yifu International Futures Co Ltd",
     "Date": "29/08/2019",
     "Description": "",
     "Websites": [
+      "y.html",
       "www.sfc.hk",
-      "www.yifgh.cn",
-      "y.html"
+      "www.yifgh.cn"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.rncapitalalliance.com",
     "Date": "29/08/2019",
     "Description": "",
@@ -4494,6 +4953,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "JJ Lloyd and www.jjlloyd.com",
     "Date": "14/08/2019",
     "Description": "",
@@ -4502,18 +4962,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.coinfamily.co.nz; www.coinfamilyrecruit.co.nz; www.hrcoinfamily.co.nz; www.coinfamilyjobs.co.nz",
     "Date": "30/07/2019",
     "Description": "",
     "Websites": [
       "www.hrcoinfamily.co.nz",
-      "www.coinfamilyjobs.co.nz",
-      "www.coinfamilyjobs.co.nz.",
       "www.coinfamily.co.nz",
-      "www.coinfamilyrecruit.co.nz"
+      "www.coinfamilyjobs.co.nz.",
+      "www.coinfamilyrecruit.co.nz",
+      "www.coinfamilyjobs.co.nz"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Girard Montague",
     "Date": "29/07/2019",
     "Description": "",
@@ -4522,16 +4984,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SeaGold Invest, Pallet Coins and Pallets Invest",
     "Date": "29/07/2019",
     "Description": "",
     "Websites": [
-      "seagoldinvest.com",
+      "palletinvest.com",
       "palletscoins.com",
-      "palletinvest.com"
+      "seagoldinvest.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.olympusmarkets.com and Next Trade Limited",
     "Date": "25/07/2019",
     "Description": "",
@@ -4540,6 +5004,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.fuerfx.com ",
     "Date": "17/07/2019",
     "Description": "",
@@ -4548,25 +5013,28 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "King Capital Management",
     "Date": "12/07/2019",
     "Description": "",
     "Websites": [
-      "them.",
-      "www.kingcapitalmanagement.com"
+      "www.kingcapitalmanagement.com",
+      "them."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Skyway Capital/Skyway Group",
     "Date": "11/07/2019",
     "Description": "",
     "Websites": [
-      "jurisdictions.",
       "www.skywayinvestgroup.com",
+      "jurisdictions.",
       "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "MBI International/MFC Club",
     "Date": "11/07/2019",
     "Description": "",
@@ -4576,6 +5044,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "OneLife Network Limited and OneCoin Limited",
     "Date": "04/07/2019",
     "Description": "",
@@ -4585,6 +5054,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcoin Trader",
     "Date": "28/06/2019",
     "Description": "",
@@ -4593,6 +5063,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "International Securities Regulatory Authority",
     "Date": "17/06/2019",
     "Description": "",
@@ -4601,6 +5072,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "McCulloh & Townsend",
     "Date": "17/06/2019",
     "Description": "",
@@ -4609,6 +5081,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "strategicfinancelimited.com ",
     "Date": "09/05/2019",
     "Description": "",
@@ -4617,6 +5090,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GG Binary.com",
     "Date": "02/05/2019",
     "Description": "",
@@ -4626,6 +5100,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BAT Financial Management",
     "Date": "17/04/2019",
     "Description": "",
@@ -4634,6 +5109,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Persons purporting to represent Holland Capital Management",
     "Date": "22/03/2019",
     "Description": "",
@@ -4642,6 +5118,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Securities Regulatory Authority",
     "Date": "22/03/2019",
     "Description": "",
@@ -4650,6 +5127,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "International Escrow Services",
     "Date": "22/03/2019",
     "Description": "",
@@ -4658,6 +5136,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.redsolarcapital.com ",
     "Date": "22/03/2019",
     "Description": "",
@@ -4666,27 +5145,30 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Persons operating the websites www.cncmeta.com and www.2cmeta.com",
     "Date": "07/03/2019",
     "Description": "",
     "Websites": [
-      "www.2cmeta.com",
-      "www.cncmeta.com"
+      "www.cncmeta.com",
+      "www.2cmeta.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Former RFA Warned for Facilitating Offending under the Financial Service Providers (Registration and Dispute Resolution) Act 2008",
     "Date": "01/03/2019",
     "Description": "",
     "Websites": [
-      "1961.",
-      "circumstances.",
+      "decisions.",
       "action.",
+      "1961.",
       "2011.",
-      "decisions."
+      "circumstances."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TradeFintech",
     "Date": "29/01/2019",
     "Description": "",
@@ -4695,6 +5177,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ainvestments",
     "Date": "22/01/2019",
     "Description": "",
@@ -4704,6 +5187,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Alliance Investment Limited ",
     "Date": "18/01/2019",
     "Description": "",
@@ -4712,25 +5196,28 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ZonggangCaifu",
     "Date": "19/12/2018",
     "Description": "",
     "Websites": [
-      "www.zgtra.com",
+      "www.zongforex.com",
       "www.zgangfx.com",
-      "www.zongforex.com"
+      "www.zgtra.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bitcoin Revolution Limited",
     "Date": "12/12/2018",
     "Description": "",
     "Websites": [
-      "www.pro-net-system.com",
-      "www.bitcoinrevolutionapp.com"
+      "www.bitcoinrevolutionapp.com",
+      "www.pro-net-system.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ideal Services Direct Contact",
     "Date": "12/12/2018",
     "Description": "",
@@ -4739,17 +5226,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "WiseBanc",
     "Date": "12/12/2018",
     "Description": "",
     "Websites": [
+      "wisebanc.com",
       "regulator.",
       "e",
-      "residents.",
-      "wisebanc.com"
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Solid Global Investments Limited",
     "Date": "11/12/2018",
     "Description": "",
@@ -4758,16 +5247,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Atlantic Finance Partners",
     "Date": "10/12/2018",
     "Description": "",
     "Websites": [
       "atlanticfinancepartners.com",
-      "www.atlanticfinancepartners.com",
-      "credentials."
+      "credentials.",
+      "www.atlanticfinancepartners.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BrighterTrade",
     "Date": "28/11/2018",
     "Description": "",
@@ -4776,36 +5267,40 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Messrs John Preston and Robert Harding; Harding & Company Advisors",
     "Date": "16/11/2018",
     "Description": "",
     "Websites": [
-      "www.handcadvisors.com",
       "scam.",
+      "www.handcadvisors.com",
       "harding."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CCM Clearing Limited",
     "Date": "12/11/2018",
     "Description": "",
     "Websites": [
-      "www.rocketconsultantgroup.com",
-      "www.unitedfcg.com",
       "www.worldadvisorygroup.com",
-      "www.ccmclearing.com"
+      "www.rocketconsultantgroup.com",
+      "www.ccmclearing.com",
+      "www.unitedfcg.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Oxford Finance Services",
     "Date": "12/11/2018",
     "Description": "",
     "Websites": [
-      "www.moneysmart.gov.au",
-      "www.oxfordfinanceservices.com"
+      "www.oxfordfinanceservices.com",
+      "www.moneysmart.gov.au"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "www.bitalong.com",
     "Date": "09/11/2018",
     "Description": "",
@@ -4814,6 +5309,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CF Group",
     "Date": "09/11/2018",
     "Description": "",
@@ -4822,6 +5318,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Chuangfu Finance (\u521b\u5bcc\u91d1\u878d)",
     "Date": "09/11/2018",
     "Description": "",
@@ -4830,15 +5327,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "365 Markets",
     "Date": "08/11/2018",
     "Description": "",
     "Websites": [
-      "www.365markets.com",
-      "www.premium.365markets.com"
+      "www.premium.365markets.com",
+      "www.365markets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cryptogain",
     "Date": "01/11/2018",
     "Description": "",
@@ -4847,6 +5346,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Zend Trade",
     "Date": "01/11/2018",
     "Description": "",
@@ -4855,16 +5355,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Russ Horn",
     "Date": "01/11/2018",
     "Description": "",
     "Websites": [
-      "www.forexequinox.com",
+      "www.facebook.com",
       "www.russhorn.com",
-      "www.facebook.com"
+      "www.forexequinox.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Financial Capital Alliance (Asia) Limited",
     "Date": "29/10/2018",
     "Description": "",
@@ -4873,6 +5375,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Oaza Nagashima Zaisanku",
     "Date": "29/10/2018",
     "Description": "",
@@ -4881,17 +5384,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kingsman Investment Limited",
     "Date": "25/10/2018",
     "Description": "",
     "Websites": [
+      "www.kingsmanltd.com",
       "zealand.",
-      "capital.",
       "institutions.",
-      "www.kingsmanltd.com"
+      "capital."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ABS International PTY Limited",
     "Date": "03/10/2018",
     "Description": "",
@@ -4901,6 +5406,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coin Link NZ",
     "Date": "10/09/2018",
     "Description": "",
@@ -4909,6 +5415,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Haig, Lafferty & Partners",
     "Date": "22/08/2018",
     "Description": "",
@@ -4917,6 +5424,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Securities Authority of New Zealand",
     "Date": "22/08/2018",
     "Description": "",
@@ -4925,6 +5433,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Management",
     "Date": "22/08/2018",
     "Description": "",
@@ -4933,15 +5442,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kensley Asset Management",
     "Date": "17/08/2018",
     "Description": "",
     "Websites": [
-      "entity.",
-      "www.kensley.co.uk"
+      "www.kensley.co.uk",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "USI-Tech",
     "Date": "16/08/2018",
     "Description": "",
@@ -4950,28 +5461,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Baihua Global",
     "Date": "03/08/2018",
     "Description": "",
     "Websites": [
-      "zealand.",
       "www.bfmfx.com",
-      "connection."
-    ]
-  },
-  {
-    "Name": "White Square Trading Limited",
-    "Date": "27/07/2018",
-    "Description": "",
-    "Websites": [
-      "www.universemarkets.com",
-      "us.",
-      "www.universemarketsfx.com",
-      "www.universe-markets.com",
+      "connection.",
       "zealand."
     ]
   },
   {
+    "Type": "NZ",
+    "Name": "White Square Trading Limited",
+    "Date": "27/07/2018",
+    "Description": "",
+    "Websites": [
+      "us.",
+      "zealand.",
+      "www.universe-markets.com",
+      "www.universemarketsfx.com",
+      "www.universemarkets.com"
+    ]
+  },
+  {
+    "Type": "NZ",
     "Name": "Taylor, Hodgson and Associates ",
     "Date": "23/07/2018",
     "Description": "",
@@ -4980,6 +5494,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "International Securities Exchange of New Zealand",
     "Date": "23/07/2018",
     "Description": "",
@@ -4988,6 +5503,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Roiteks (otherwise known as Green Oak Limited)",
     "Date": "23/07/2018",
     "Description": "",
@@ -4997,6 +5513,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Finance Group Corp AND Cent Projects Ltd",
     "Date": "18/07/2018",
     "Description": "",
@@ -5006,16 +5523,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Chemmi Holdings Limited trading as MaxCFD AND Binary Tilt",
     "Date": "03/07/2018",
     "Description": "",
     "Websites": [
-      "scam.",
       "www.maxcfd.com",
+      "scam.",
       "www.binarytilt.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Foreign Securities Commission of New Zealand",
     "Date": "26/06/2018",
     "Description": "",
@@ -5024,6 +5543,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Tricom Securities Limited ",
     "Date": "26/06/2018",
     "Description": "",
@@ -5033,6 +5553,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Everest International Group Limited",
     "Date": "21/06/2018",
     "Description": "",
@@ -5041,6 +5562,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Anaru and Partners ",
     "Date": "21/06/2018",
     "Description": "",
@@ -5049,6 +5571,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kauri Ventures",
     "Date": "21/06/2018",
     "Description": "",
@@ -5057,6 +5580,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Foreign Investment and Acquisition Authority",
     "Date": "21/06/2018",
     "Description": "",
@@ -5065,6 +5589,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SME",
     "Date": "13/06/2018",
     "Description": "",
@@ -5074,6 +5599,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Coin City Limited ",
     "Date": "29/05/2018",
     "Description": "",
@@ -5082,6 +5608,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Department of Overseas Acquisitions",
     "Date": "22/05/2018",
     "Description": "",
@@ -5090,6 +5617,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Manaia and Partners ",
     "Date": "22/05/2018",
     "Description": "",
@@ -5098,6 +5626,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Securities and Trade Commission ",
     "Date": "18/05/2018",
     "Description": "",
@@ -5106,6 +5635,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Anahera and Partners",
     "Date": "18/05/2018",
     "Description": "",
@@ -5114,6 +5644,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "The Kimble, May and Bains Group (The KMB Group)",
     "Date": "11/05/2018",
     "Description": "",
@@ -5122,20 +5653,23 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Managed Forex Hub Limited",
     "Date": "11/05/2018",
     "Description": "",
     "Websites": [
-      "www.managedforexhub.co.nz",
-      "with.",
-      "a",
-      "2011.",
       "failure.",
+      "www.managedforexhub.co.nz",
+      "scheme.",
+      "with.",
       "000.",
-      "scheme."
+      "a",
+      "www.managedforexhub.com",
+      "2011."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Securities and Acquisition Conduct Commission",
     "Date": "04/05/2018",
     "Description": "",
@@ -5144,19 +5678,21 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Crafters & Co. Limited and Hadleigh Petherick",
     "Date": "16/04/2018",
     "Description": "",
     "Websites": [
-      "in.",
       "withdrawal.",
-      "2011.",
-      "f",
+      "decision.",
+      "in.",
       "campaign.",
-      "decision."
+      "2011.",
+      "f"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Monetary Exchange Commission of New Zealand",
     "Date": "12/04/2018",
     "Description": "",
@@ -5165,6 +5701,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Redfield Markets Limited",
     "Date": "11/04/2018",
     "Description": "",
@@ -5174,6 +5711,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Markets Trading Ltd",
     "Date": "05/04/2018",
     "Description": "",
@@ -5182,16 +5720,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "lansforex.com",
     "Date": "21/03/2018",
     "Description": "",
     "Websites": [
+      "government.",
       "lansforex.com",
-      "www.lansforex.com",
-      "government."
+      "www.lansforex.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Oproserv Limited",
     "Date": "27/02/2018",
     "Description": "",
@@ -5200,6 +5740,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Foreign Investment and Conduct Commission",
     "Date": "20/02/2018",
     "Description": "",
@@ -5208,6 +5749,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Strategy Partners (CSP)",
     "Date": "18/01/2018",
     "Description": "",
@@ -5217,15 +5759,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GSI Markets",
     "Date": "17/01/2018",
     "Description": "",
     "Websites": [
-      "www.gsimarkets.com",
-      "a"
+      "a",
+      "www.gsimarkets.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bridge Capital Advisors",
     "Date": "17/11/2017",
     "Description": "",
@@ -5235,6 +5779,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "US International Investment Trade Authority",
     "Date": "16/11/2017",
     "Description": "",
@@ -5243,15 +5788,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "The Financial Service Provider Commission (FSPC)",
     "Date": "13/10/2017",
     "Description": "",
     "Websites": [
-      "www.fspl-registry.org",
-      "organisation."
+      "organisation.",
+      "www.fspl-registry.org"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BinaryTilt",
     "Date": "04/10/2017",
     "Description": "",
@@ -5260,6 +5807,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Huayu Investments Limited ",
     "Date": "15/09/2017",
     "Description": "",
@@ -5268,6 +5816,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Financial Markets Commission Board",
     "Date": "18/08/2017",
     "Description": "",
@@ -5276,6 +5825,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vhtrade International Financial Group",
     "Date": "01/08/2017",
     "Description": "",
@@ -5286,34 +5836,38 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Huang Investments Limited (Hong Kong) ",
     "Date": "26/07/2017",
     "Description": "",
     "Websites": [
-      "www.sfc.hk",
       "h.html",
-      "www.huanginternational.com"
+      "www.huanginternational.com",
+      "www.sfc.hk"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "GC Venture Capital (GC)",
     "Date": "06/07/2017",
     "Description": "",
     "Websites": [
-      "entity.",
-      "www.gc-vc.com"
+      "www.gc-vc.com",
+      "entity."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "24Options",
     "Date": "12/06/2017",
     "Description": "",
     "Websites": [
-      "zealand.",
-      "www.24option.com"
+      "www.24option.com",
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Corner Oaks Group",
     "Date": "03/05/2017",
     "Description": "",
@@ -5322,26 +5876,29 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "JJ Matthias Asset Management",
     "Date": "26/04/2017",
     "Description": "",
     "Websites": [
       "firm.",
-      "residents.",
-      "www.jjmatthias.com"
+      "www.jjmatthias.com",
+      "residents."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Central Spot Trading Ltd operating as Opteck",
     "Date": "19/04/2017",
     "Description": "",
     "Websites": [
-      "zealand.",
       "authority.",
+      "zealand.",
       "www.opteck.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Opteck",
     "Date": "19/04/2017",
     "Description": "",
@@ -5351,6 +5908,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Hedgestone Group",
     "Date": "10/03/2017",
     "Description": "",
@@ -5359,16 +5917,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital Trust Management",
     "Date": "09/02/2017",
     "Description": "",
     "Websites": [
-      "here.",
       "u",
-      "www.ct-mgmt.com"
+      "www.ct-mgmt.com",
+      "here."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "OptionsXO",
     "Date": "07/02/2017",
     "Description": "",
@@ -5377,6 +5937,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Mergers & Acquisitions Compliance Commission",
     "Date": "19/01/2017",
     "Description": "",
@@ -5385,16 +5946,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Horizon Holdings Limited",
     "Date": "17/01/2017",
     "Description": "",
     "Websites": [
-      "kong.",
+      "settlement.",
       "www.horizonholdingsltd.com",
-      "settlement."
+      "kong."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Wealth Management Group Ltd",
     "Date": "22/11/2016",
     "Description": "",
@@ -5404,6 +5967,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Exo Capital Markets Limited trading as Trade 12",
     "Date": "09/11/2016",
     "Description": "",
@@ -5412,6 +5976,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "TCA Financial",
     "Date": "09/11/2016",
     "Description": "",
@@ -5420,16 +5985,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "CMS Trader ",
     "Date": "17/10/2016",
     "Description": "",
     "Websites": [
+      "us.",
       "trader.",
-      "www.cmstrader.com",
-      "us."
+      "www.cmstrader.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Liberty Venture Holdings Inc.  ",
     "Date": "17/10/2016",
     "Description": "",
@@ -5438,17 +6005,19 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Corporate Enterprises PTY Limited",
     "Date": "07/10/2016",
     "Description": "",
     "Websites": [
       "saskatchewan.",
-      "2015.",
+      "www.optiongiants.com",
       "www.ogmvp.info",
-      "www.optiongiants.com"
+      "2015."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Greenberg International Law and Tax Advisory",
     "Date": "23/09/2016",
     "Description": "",
@@ -5457,6 +6026,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Titan Trade",
     "Date": "07/09/2016",
     "Description": "",
@@ -5466,6 +6036,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IntegraOption",
     "Date": "02/08/2016",
     "Description": "",
@@ -5475,6 +6046,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "PFM Trading Inc.",
     "Date": "29/07/2016",
     "Description": "",
@@ -5484,6 +6056,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ACI",
     "Date": "15/07/2016",
     "Description": "",
@@ -5493,6 +6066,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "13th Pty Limited trading as IGOT",
     "Date": "15/07/2016",
     "Description": "",
@@ -5501,43 +6075,48 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Investigation into Morgan Cooper Limited",
     "Date": "03/06/2016",
     "Description": "",
     "Websites": [
-      "legislation.",
-      "www.morgancooperltd.co.nz"
+      "www.morgancooperltd.co.nz",
+      "legislation."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Morgan Cooper Limited",
     "Date": "03/06/2016",
     "Description": "",
     "Websites": [
-      "legislation.",
-      "www.morgancooperltd.co.nz"
+      "www.morgancooperltd.co.nz",
+      "legislation."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FM Trader",
     "Date": "01/06/2016",
     "Description": "",
     "Websites": [
-      "fmtrader.com",
-      "www.moneysmart.gov.au"
+      "www.moneysmart.gov.au",
+      "fmtrader.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FX Unitied ",
     "Date": "04/05/2016",
     "Description": "",
     "Websites": [
       "www.fxunited.com",
-      "united.",
-      "www.fxunitedpowerinternational.com"
+      "www.fxunitedpowerinternational.com",
+      "united."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "United Global Holdings Limited, trading as FX United ",
     "Date": "04/05/2016",
     "Description": "",
@@ -5547,16 +6126,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Warning: Beware of unsolicited offers of employment",
     "Date": "11/03/2016",
     "Description": "",
     "Websites": [
-      "www.seek.com.au",
+      "www.consumerprotection.govt.nz",
       "www.hattonfs.com",
-      "www.consumerprotection.govt.nz"
+      "www.seek.com.au"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ECN Markets",
     "Date": "01/03/2016",
     "Description": "",
@@ -5565,6 +6146,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Banc de Binary Limited",
     "Date": "01/01/2016",
     "Description": "",
@@ -5573,6 +6155,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BO Technologies Limited",
     "Date": "01/01/2016",
     "Description": "",
@@ -5581,6 +6164,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Option Financial Markets (Option FM)",
     "Date": "01/01/2016",
     "Description": "",
@@ -5589,15 +6173,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Green Gardens Finance Trust Limited",
     "Date": "27/07/2015",
     "Description": "",
     "Websites": [
-      "company.",
-      "ggfinance.co.nz"
+      "ggfinance.co.nz",
+      "company."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Alliance Group Tokyo",
     "Date": "01/07/2015",
     "Description": "",
@@ -5606,27 +6192,30 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Nomura Financial",
     "Date": "01/06/2015",
     "Description": "",
     "Websites": [
-      "warnings.",
       "scammers.",
-      "www.nomurafinancial.com"
+      "www.nomurafinancial.com",
+      "warnings."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Pacific Edge Limited",
     "Date": "25/05/2015",
     "Description": "",
     "Websites": [
       "agreements.",
-      "warning.",
       "information.",
-      "market."
+      "market.",
+      "warning."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Capital One Forex Limited",
     "Date": "01/05/2015",
     "Description": "",
@@ -5636,28 +6225,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Forex Trend Limited",
     "Date": "01/05/2015",
     "Description": "",
     "Websites": [
+      "www.fx-trend.com",
+      "products.",
       "fx-trend.com.",
       "www.fdr.org.nz",
-      "liquidator.",
-      "products.",
-      "www.fx-trend.com"
+      "liquidator."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "alcanfml.com",
     "Date": "28/10/2014",
     "Description": "",
     "Websites": [
-      "wwwalcanfml.com",
       "www.alcanfml.com",
-      "alcanfml.com"
+      "alcanfml.com",
+      "wwwalcanfml.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FMA warns consumers about cold-calling investment offers and \u2018big win\u2019 scams",
     "Date": "23/10/2014",
     "Description": "",
@@ -5666,18 +6258,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "General Equity",
     "Date": "29/09/2014",
     "Description": "",
     "Websites": [
-      "act.",
       "us.",
       "statements.",
-      "000.",
-      "zealand."
+      "zealand.",
+      "act.",
+      "000."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "New Zealand Capital Finance",
     "Date": "01/02/2014",
     "Description": "",
@@ -5686,6 +6280,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "DCW Limited",
     "Date": "01/12/2013",
     "Description": "",
@@ -5694,6 +6289,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "1st Equity Group Limited",
     "Date": "01/12/2013",
     "Description": "",
@@ -5702,6 +6298,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "FXCitizen (Universe Citizen Limited)",
     "Date": "01/12/2013",
     "Description": "",
@@ -5710,6 +6307,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Kaiser Brokers Group Limited",
     "Date": "01/12/2013",
     "Description": "",
@@ -5718,6 +6316,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Pacific Blu L.P (Limited Partnership)",
     "Date": "01/12/2013",
     "Description": "",
@@ -5726,6 +6325,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Universe Citizen Limited, trading as FXCitizen",
     "Date": "01/12/2013",
     "Description": "",
@@ -5734,15 +6334,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Department of Foreign Investment Control",
     "Date": "01/11/2013",
     "Description": "",
     "Websites": [
-      "www.dfic.us",
-      "www.gov.dfic.us"
+      "www.gov.dfic.us",
+      "www.dfic.us"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "First National Innovation Brokers Limited",
     "Date": "01/11/2013",
     "Description": "",
@@ -5751,18 +6353,20 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Phoenix Forex Limited",
     "Date": "29/08/2013",
     "Description": "",
     "Websites": [
-      "forex.",
+      "system.",
       "service.",
-      "investment.",
+      "forex.",
       "auckland.",
-      "system."
+      "investment."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ethos Capital Limited",
     "Date": "01/08/2013",
     "Description": "",
@@ -5771,6 +6375,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IBC Capital Limited",
     "Date": "01/08/2013",
     "Description": "",
@@ -5779,25 +6384,28 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "ISC Financial Group Limited",
     "Date": "01/08/2013",
     "Description": "",
     "Websites": [
-      "www.isc-financialgroup.com",
-      "kontakt.php"
+      "kontakt.php",
+      "www.isc-financialgroup.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Saba Capital Management, Hong Kong",
     "Date": "01/08/2013",
     "Description": "",
     "Websites": [
       "www.sabahk.com",
-      "d.",
-      "sabahkllc.com"
+      "sabahkllc.com",
+      "d."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Diversified Private Capital Group",
     "Date": "01/07/2013",
     "Description": "",
@@ -5806,6 +6414,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Union Group Financial Limited",
     "Date": "01/07/2013",
     "Description": "",
@@ -5814,6 +6423,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "BioMedReports",
     "Date": "01/06/2013",
     "Description": "",
@@ -5822,6 +6432,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "E1 Asset Management, Inc.",
     "Date": "01/05/2013",
     "Description": "",
@@ -5831,6 +6442,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Milton Keynes Capital Partners LLP",
     "Date": "01/05/2013",
     "Description": "",
@@ -5839,6 +6451,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NJF Global Group",
     "Date": "11/03/2013",
     "Description": "",
@@ -5847,28 +6460,31 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Profitable Sunrise (Prosun)",
     "Date": "11/03/2013",
     "Description": "",
     "Websites": [
+      "u",
       "entities.",
-      "hughes.",
       "law.",
-      "u"
+      "hughes."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Halcyon Offshore Asset Management",
     "Date": "01/02/2013",
     "Description": "",
     "Websites": [
-      "web.home",
       "me.get",
       "www.hoamhk.com",
+      "web.home",
       "www.halcyonllc.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Swiss Asia Commodities Securities",
     "Date": "01/02/2013",
     "Description": "",
@@ -5877,6 +6493,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vision Continental Services Limited",
     "Date": "01/12/2012",
     "Description": "",
@@ -5885,16 +6502,18 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Ross Investments (Aust) Pty Limited",
     "Date": "13/07/2012",
     "Description": "",
     "Websites": [
-      "investors.",
+      "offers.",
       "caution.",
-      "offers."
+      "investors."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Century Savings and Trust Ltd",
     "Date": "01/07/2012",
     "Description": "",
@@ -5903,6 +6522,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Maxum Gold Bnk Limited",
     "Date": "01/07/2012",
     "Description": "",
@@ -5911,6 +6531,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "New Zealand International Savings and Loans Ltd",
     "Date": "01/07/2012",
     "Description": "",
@@ -5919,15 +6540,17 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Swiss Financial Corp Limited",
     "Date": "01/07/2012",
     "Description": "",
     "Websites": [
-      "swissfincorp.com",
-      "index.html"
+      "index.html",
+      "swissfincorp.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Trendoks IMG (NZ) LLC and Trendoks Limited",
     "Date": "01/07/2012",
     "Description": "",
@@ -5936,6 +6559,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Vista International Services Limited",
     "Date": "01/07/2012",
     "Description": "",
@@ -5944,45 +6568,49 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cold-calling share scam",
     "Date": "22/05/2012",
     "Description": "",
     "Websites": [
+      "plausible.",
       "556.",
-      "www.netsafe.org.nz",
+      "zealanders.",
       "www.fspr.govt.nz",
       "fraud.",
-      "website.",
-      "scam.",
-      "plausible.",
+      "www.netsafe.org.nz",
       "company.",
       "www.antispam.govt.nz",
+      "scam.",
       "www.scamwatch.govt.nz",
-      "zealanders."
+      "website."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "VonWin Capital Management L.P. and Stock & Share Trading Company Pty Ltd",
     "Date": "21/12/2011",
     "Description": "",
     "Websites": [
       "it.",
-      "bonds.",
+      "bondholders.",
       "investors.",
-      "offers.",
-      "bondholders."
+      "bonds.",
+      "offers."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "US International Bureau For Trading",
     "Date": "21/11/2011",
     "Description": "",
     "Websites": [
-      "www.usibtrading.org",
-      "f"
+      "f",
+      "www.usibtrading.org"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "American Financial Group",
     "Date": "01/09/2011",
     "Description": "",
@@ -5991,6 +6619,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Commodities Futures Trading Authority Ltd",
     "Date": "01/09/2011",
     "Description": "",
@@ -5999,6 +6628,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Horizon Financial Management",
     "Date": "01/09/2011",
     "Description": "",
@@ -6007,52 +6637,56 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Share Buyers Limited",
     "Date": "08/07/2011",
     "Description": "",
     "Websites": [
-      "zealand.",
+      "shares.",
       "us.",
-      "shares."
+      "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "SuperLife Limited and SuperLife Trustees Limited",
     "Date": "21/06/2011",
     "Description": "",
     "Websites": [
-      "act.",
-      "law.",
-      "authorised.",
+      "decision.",
       "practices.",
-      "decision."
+      "authorised.",
+      "act.",
+      "law."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Bernard Whimp",
     "Date": "02/05/2011",
     "Description": "",
     "Websites": [
-      "are.",
       "shareholders.",
-      "726.",
-      "bureau.",
       "interests.",
-      "sharebroker.",
-      "misleading.",
-      "you.",
-      "forms.",
       "paid.",
-      "offer.",
-      "www.seccom.govt.nz",
+      "you.",
+      "caution.",
       "partnerships.",
-      "payments.",
-      "we.",
+      "726.",
+      "are.",
       "appears.",
-      "caution."
+      "payments.",
+      "www.seccom.govt.nz",
+      "we.",
+      "sharebroker.",
+      "bureau.",
+      "forms.",
+      "offer.",
+      "misleading."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "EquiAsia Group Limited",
     "Date": "02/05/2011",
     "Description": "",
@@ -6061,6 +6695,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Donaldson and Turner",
     "Date": "01/05/2011",
     "Description": "",
@@ -6069,6 +6704,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Janco Lazard Transfer Company",
     "Date": "01/05/2011",
     "Description": "",
@@ -6077,6 +6713,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Reliance Asset Management Ltd",
     "Date": "01/05/2011",
     "Description": "",
@@ -6085,6 +6722,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Weiss Rifkin & Partners",
     "Date": "01/05/2011",
     "Description": "",
@@ -6093,36 +6731,42 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "NZ Investment Securities LP (NZIS)",
     "Date": "28/04/2011",
     "Description": "",
     "Websites": [
-      "weeks.",
-      "it.",
-      "checks.",
-      "offer.",
       "reasons.",
+      "it.",
+      "value.",
+      "weeks.",
+      "checks.",
+      "www.nzx.com",
+      "urgency.",
       "share.",
       "offers.",
-      "value.",
-      "urgency."
+      "offer."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Cargill Securities LP (Cargill)",
     "Date": "18/04/2011",
     "Description": "",
     "Websites": [
-      "weeks.",
       "whimp.",
-      "offer.",
+      "weeks.",
+      "www.seccom.govt.nz",
+      "www.nzx.com",
+      "urgency.",
       "share.",
-      "days.",
       "value.",
-      "urgency."
+      "offer.",
+      "days."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Price & Partners Consultants",
     "Date": "01/04/2011",
     "Description": "",
@@ -6131,6 +6775,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Commission Warns About More Unsolicited Offers",
     "Date": "17/03/2011",
     "Description": "",
@@ -6140,6 +6785,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Premier eFinance",
     "Date": "01/03/2011",
     "Description": "",
@@ -6148,6 +6794,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "AB Financial Group",
     "Date": "01/01/2011",
     "Description": "",
@@ -6156,6 +6803,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Evans and Stern Corporation",
     "Date": "01/01/2011",
     "Description": "",
@@ -6164,6 +6812,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Financial Marketing",
     "Date": "01/01/2011",
     "Description": "",
@@ -6172,6 +6821,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Fusion Financial Marketing",
     "Date": "01/01/2011",
     "Description": "",
@@ -6180,6 +6830,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Regal Group International",
     "Date": "01/01/2011",
     "Description": "",
@@ -6188,6 +6839,7 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Spartan Capital Management",
     "Date": "01/01/2011",
     "Description": "",
@@ -6196,75 +6848,81 @@
     ]
   },
   {
+    "Type": "NZ",
     "Name": "IRA NRG NZ Limited (INNL)",
     "Date": "17/12/2010",
     "Description": "",
     "Websites": [
-      "offer.",
-      "diplock."
+      "diplock.",
+      "offer."
     ]
   },
   {
+    "Type": "NZ",
     "Name": " Carrington Securities LP",
     "Date": "10/08/2010",
     "Description": "",
     "Websites": [
-      "prospectus.",
-      "future.",
-      "partner.",
-      "whimp.",
       "investments.",
-      "offer.",
+      "future.",
+      "whimp.",
+      "prospectus.",
       "fund.",
+      "partner.",
       "deceptive.",
-      "share."
+      "share.",
+      "offer."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Stock & Share Trading Company Pty Limited",
     "Date": "06/05/2010",
     "Description": "",
     "Websites": [
-      "offers.",
-      "bonds.",
-      "against.",
-      "dollar.",
-      "bureau.",
-      "www.nzx.com",
-      "securities.",
-      "270810.shtml",
-      "offer.",
-      "deceptive.",
-      "www.fma.govt.nz.",
-      "limited.",
-      "www.seccom.govt.nz",
-      "bondholders.",
-      "forms.",
       "caution.",
+      "bonds.",
+      "www.seccom.govt.nz",
+      "deceptive.",
+      "offer.",
       "plan.",
-      "listed."
+      "securities.",
+      "listed.",
+      "270810.shtml",
+      "dollar.",
+      "against.",
+      "www.companies.govt.nz",
+      "offers.",
+      "bondholders.",
+      "limited.",
+      "www.fma.govt.nz.",
+      "bureau.",
+      "forms.",
+      "www.nzx.com"
     ]
   },
   {
+    "Type": "NZ",
     "Name": "9999 Gold Mining Corporation",
     "Date": "06/05/2010",
     "Description": "",
     "Websites": [
-      "offer.",
       "investments.",
       "them.",
+      "offer.",
       "zealand."
     ]
   },
   {
+    "Type": "NZ",
     "Name": "Inertialess Drive ZPE (2010) Limited",
     "Date": "04/02/2010",
     "Description": "",
     "Websites": [
-      "2009.",
       "statement.",
-      "says.",
-      "illegal."
+      "illegal.",
+      "2009.",
+      "says."
     ]
   }
 ]
