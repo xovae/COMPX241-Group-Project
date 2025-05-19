@@ -99,7 +99,15 @@ for row in reader:
                 if filteredWebsite.endswith(whitelistedTLDs) == True or filteredWebsite in whitelistedWebsites:
                     del websites[i]
                 else:
-                    websites[i] = filteredWebsite
+                    length = len(filteredWebsite)
+                    if length % 2 == 0:
+                        midpoint = len(filteredWebsite) // 2
+                        if filteredWebsite[:midpoint] == filteredWebsite[midpoint+1:]:
+                            websites[i] = filteredWebsite[:midpoint]
+                        else:
+                            websites[i] = filteredWebsite
+                    else:
+                        websites[i] = filteredWebsite
             else:
                 del websites[i]
             
