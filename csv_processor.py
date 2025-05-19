@@ -47,6 +47,10 @@ for row in reader:
     #If start is found
     if description_start != -1:
         
+        #Used to filter out incorrect captures of websites in the headings
+        websiteCapture = content[description_start + len("FSPR:  "): ]
+        websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', websiteCapture)
+        
         #Attempt to find first common end of the description
         description_end = content.find("Entity")
         
@@ -56,14 +60,14 @@ for row in reader:
     
         #If an description end is found, capture all content between the description start and end, stripping any trailing whitespace
         if description_end != -1:
-            description = content[description_start + len("FSPR:  "):description_end].rstrip()
+            description = content[description_start + len("FSPR:   "):description_end].rstrip()
         #Otherwise, capture everything past the description start, stripping any trailing whitespace
         else:
-            description = content[description_start + len("FSPR:  "):].rstrip()
+            description = content[description_start + len("FSPR:   "):].rstrip()
     else: 
         description = ""
-        
-    websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', content)
+        websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', content)
+  
     websites = [valid for valid in websites if "@" not in valid]
     
     if len(websites) != 0: 
@@ -77,7 +81,7 @@ for row in reader:
             filteredTLD = re.split(r'[A-Z]', websites[i][tldIndex:])[0]
             filteredWebsite = (websites[i][:tldIndex] + filteredTLD).lower()
             filteredWebsite = filteredWebsite.replace("www.", "")
-            
+                
             validWebsite = False
             
             #Check the website is valid (contains a valid TLD)
@@ -94,12 +98,14 @@ for row in reader:
                             break
                 else:
                     break
-            
+        
             if validWebsite == True:
+                #Remove whitelist entries
                 if filteredWebsite.endswith(whitelistedTLDs) == True or filteredWebsite in whitelistedWebsites:
                     del websites[i]
                 else:
-                    length = len(filteredWebsite)
+                    #Remove echoed entries
+                    length = len(filteredWebsite) - 1
                     if length % 2 == 0:
                         midpoint = len(filteredWebsite) // 2
                         if filteredWebsite[:midpoint] == filteredWebsite[midpoint+1:]:
