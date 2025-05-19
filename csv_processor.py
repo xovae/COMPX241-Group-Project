@@ -1,8 +1,8 @@
 import csv
-import re
-import json
-import requests
 import io
+import json
+import re
+import requests
 
 #Download the latest copy of the CSV file
 url = "https://www.fma.govt.nz/library/warnings-and-alerts/downloadWarnings/?date=all"
