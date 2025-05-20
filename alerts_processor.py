@@ -15,6 +15,14 @@ whitelistedWebsites = ("netsafe.org.nz", "seek.com.au", "fca.org.uk", "nz.linked
 
 #Safe TLDs that are included in descriptions occasionally
 whitelistedTLDs = ("govt.nz", "gov.au")
+
+#Download the list of valid TLDs
+url = "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
+response = requests.get(url)
+validTLDs = set(line.strip().lower() for line in response.text.splitlines() if line and not line.startswith('#'))
+
+#Add TLDs not managed by IANA
+validTLDs.update(["bbs", "chan", "cyb", "dyn", "geek", "gopher", "indy", "libre", "neo", "null", "o", "oss", "oz", "parody", "pirate", "fur", "lib", "coin", "emc", "bazar", "ku", "te", "ti", "uu", "ko", "rm"])
    
 def ASICProcessor():
     #Open file
@@ -46,6 +54,31 @@ def ASICProcessor():
                         filteredWebsite = website.replace("www.", "")
                         filteredWebsite = filteredWebsite.replace("http://", "")
                         filteredWebsite = filteredWebsite.replace("https://", "")
+                        filteredWebsite = filteredWebsite.lower()
+                        
+                        # #Remove subdomains
+                        # subdomainIndex = filteredWebsite.find("/")
+                        # filteredWebsite = filteredWebsite[:subdomainIndex]
+
+                        
+                        validWebsite = False
+                
+                        #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
+                        # while len(filteredWebsite.split('.')) > 1:
+                        #     if filteredWebsite.split('.')[1] != "":
+                        #         if filteredWebsite.split('.')[-1] in validTLDs:
+                        #             validWebsite = True
+                        #             break
+                        #         else:
+                        #             tldIndex = filteredWebsite.rfind(".")
+                        #             if tldIndex != -1:
+                        #                 filteredWebsite = filteredWebsite[:tldIndex]
+                        #             else:
+                        #                 break
+                        #     else:
+                        #         break
+                    
+                        # if validWebsite == True:
                         
                         #Filter whitelisted entries
                         if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
@@ -53,6 +86,9 @@ def ASICProcessor():
                             if filteredWebsite not in websiteCache and filteredWebsite != "":
                                 websiteCache.append(filteredWebsite)
                                 newWebsites.append(filteredWebsite)
+                                
+                        # else:
+                        #     print(filteredWebsite + " is not a valid website!")
                               
                     #Add the entry only if there are new websites listed                              
                     if len(newWebsites) != 0:
@@ -81,11 +117,6 @@ def FMAProcessor():
     url = "https://www.fma.govt.nz/library/warnings-and-alerts/downloadWarnings/?date=all"
     response = requests.get(url)
     fileObject = io.StringIO(response.text)
-
-    #Download the list of valid TLDs
-    url = "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
-    response = requests.get(url)
-    validTLDs = set(line.strip().lower() for line in response.text.splitlines() if line and not line.startswith('#'))
 
     #Create reader object
     reader = csv.reader(fileObject)
@@ -197,7 +228,7 @@ def IOSCOProcessor():
     url = "https://www.iosco.org/i-scan/?export-to-csv&VALIDATIONDATESTART=&page=1&SUBSECTION=main&CATEGORYID=&ID=&VALIDATIONDATEEND=&PRODUCTID=&NCA_ID=&KEYWORDS="
     response = requests.get(url)
     fileObject = io.StringIO(response.text, newline ='')
-
+  
     #Create reader object
     reader = csv.reader(fileObject)
 
@@ -227,6 +258,7 @@ def IOSCOProcessor():
                 filteredWebsite = website.replace("www.", "")
                 filteredWebsite = filteredWebsite.replace("http://", "")
                 filteredWebsite = filteredWebsite.replace("https://", "")
+                filteredWebsite = filteredWebsite.lower()
                 
                 #Extract website from string
                 match = re.search(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', filteredWebsite)
@@ -235,12 +267,30 @@ def IOSCOProcessor():
                 if match != None:                
                     filteredWebsite = match.group()
                     
-                    #Check if the website is whitelisted
-                    if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
-                        #Check if the website has been listed before
-                        if filteredWebsite not in websiteCache and filteredWebsite != "":
-                            websiteCache.append(filteredWebsite)
-                            newWebsites.append(filteredWebsite)
+                    validWebsite = False
+                
+                    #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
+                    while len(filteredWebsite.split('.')) > 1:
+                        if filteredWebsite.split('.')[1] != "":
+                            if filteredWebsite.split('.')[-1] in validTLDs:
+                                validWebsite = True
+                                break
+                            else:
+                                tldIndex = filteredWebsite.rfind(".")
+                                if tldIndex != -1:
+                                    filteredWebsite = filteredWebsite[:tldIndex]
+                                else:
+                                    break
+                        else:
+                            break
+                    
+                    if validWebsite == True:
+                        #Check if the website is whitelisted
+                        if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
+                            #Check if the website has been listed before
+                            if filteredWebsite not in websiteCache and filteredWebsite != "":
+                                websiteCache.append(filteredWebsite)
+                                newWebsites.append(filteredWebsite)
                     
             #Add the entry if there are new websites listed
             if len(newWebsites) != 0:
