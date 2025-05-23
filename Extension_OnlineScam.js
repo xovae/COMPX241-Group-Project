@@ -3,29 +3,114 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Warns and blocks all input on known scam sites until dismissed.
-// @author       Online Scam Group
+// @author       Online Scam group
 // @match        *://*/*
 // @grant        GM_addStyle
+
+// @run-at       document-idle
+
 // ==/UserScript==
 
 (function () {
     'use strict';
 
-    // List of known scam domains
-    const fraudSites = [
-        "pilosaleltd.com",
-        "scammyexample1.com",
-        "fraudpaymentsite.net",
-        "fakeshoponline.co",
-        "dangerousdeals.xyz"
+       const fraudSites = [
+
+    "pilosaleltd.com",
+    "fx-gam.com",
+    "selected-markets.com",
+    "fxreview.com",
+    "eternalwealthfx.com",
+    "efsca.online",
+    "aimcl.com",
+    "cfdstocks.com",
+    "abbeyhouseacquisitions.com",
+    "abelmyers.com",
+    "acctnyc.com",
+    "acomex.nl",
+    "theadamgroup.com",
+    "adderleydavis.com",
+    "admiralglobal.com",
+    "afufx.com",
+    "advantagesecurities.com",
+    "advent-oriental.com",
+    "adviser-inc.com",
+    "aeginvltd.com",
+    "agromicron.com",
+    "ajwitherspoonandco.com",
+    "brokerz.com",
+    "afadvisoryinc.com",
+    "alliancefrboard.us",
+    "alliancefx.capital",
+    "alliancegrouptokyo.com",
+    "alliedcapmgt.com",
+    "alliedsovereignzurich.com",
+    "alphatakeovers.com",
+    "ambercapitalpartners.com",
+    "ambramsoninternational.com",
+    "amcint-hk.com",
+    "afoex.com",
+    "americanhst.com",
+    "amselcommodities.com",
+    "annexinternational.com",
+    "antonfalk.com",
+    "apolloam.us",
+    "apolloassetmanagementhk.com",
+    "aqua-securities.com",
+    "arambinaryoptions.com",
+    "arcadia-hk.",
+    "ariesventuresinc.com",
+    "aristacv.com",
+    "teramusu.com",
+    "ivoryoption.com",
+    "asean-commodities.com",
+    "ashfordinvestments.com",
+    "acglobalinc.com",
+    "asiaworldcap.com",
+    "asiapacificadvisors.com",
+     "www.fx-gam.com",
+    "www.selected-markets.com",
+    "www.fxreview.com",
+    "www.eternalwealthfx.com",
+    "efsca.online",
+    "www.aimcl.com",
+    "www.cfdstocks.com",
+    "www.abbeyhouseacquisitions.com",
+    "www.abelmyers.com",
+    "www.acctnyc.com",
+    "www.acomex.nl",
+    "www.theadamgroup.com",
+    "www.adderleydavis.com",
+    "admiralglobal.com",
+    "www.afufx.com",
+    "www.advantagesecurities.com",
+    "www.advent-oriental.com",
+    "www.adviser-inc.com",
+    "www.aeginvltd.com",
+    "www.agromicron.com",
+    "www.ajwitherspoonandco.com",
+    "http://brokerz.com",
+    "www.afadvisoryinc.com",
+    "http://alliancefrboard.us",
+    "http://www.alliancefx.capital",
+    "http://alliancegrouptokyo.com",
+    "http://www.alliedcapmgt.com",
+    "www.alliedsovereignzurich.com",
+    "www.alphatakeovers.com",
+    "www.ambercapitalpartners.com",
+
+
     ];
 
     const hostname = window.location.hostname.replace(/^www\./, '').toLowerCase();
 
-    // Check if current hostname is in the scam list
-    if (!fraudSites.includes(hostname)) return;
+    // Match exact domains or subdomains
+    if (!fraudSites.some(domain =>
+    hostname === domain || hostname.endsWith('.' + domain)
 
-    // Block ALL user interaction
+    )) return;
+
+    // Block ALL user interaction with a full-screen overlay
     function blockUserInput() {
         GM_addStyle(`
             #inputBlockerOverlay {
@@ -64,18 +149,22 @@
         document.body.style.overflow = 'hidden';
     }
 
-    // Try to play alert sound
+    // Plays an alert sound
     function playAlertSound() {
-        const sound = new Audio("https://www.soundjay.com/button/beep-07.wav");
-        sound.volume = 1.0;
-        sound.play().catch(() => {
-            document.addEventListener('click', () => {
-                sound.play().catch(() => {});
-            }, { once: true });
-        });
-    }
+    const sound = new Audio("https://drive.google.com/uc?export=download&id=1HuT1bgxI2wlV3V2JwLU3qvux_34ZmBqK");
+    sound.volume = 1.0;
 
-    // Show fraud alert
+    // user interaction to enable sound
+    const clickToEnable = () => {
+        sound.play().catch(() => {});
+        document.removeEventListener('click', clickToEnable);
+    };
+
+    document.addEventListener('click', clickToEnable);
+   }
+
+
+    // Shows an alert box warning about the scam site
     function showFraudWarning() {
         GM_addStyle(`
             #fraudAlertBox {
@@ -106,7 +195,16 @@
                 border-radius: 5px;
                 cursor: pointer;
                 margin-top: 10px;
+                margin-right: 10px;
                 font-weight: bold;
+            }
+
+            #learnMoreBtn {
+                background-color: #1976d2;
+            }
+
+            #learnMoreBtn:hover {
+                background-color: #1254a1;
             }
 
             #fraudAlertBox button:hover {
@@ -117,23 +215,29 @@
         const box = document.createElement('div');
         box.id = 'fraudAlertBox';
         box.innerHTML = `
-            <h2>⚠️ Fraud Alert</h2>
+            <h2>Fraud Alert</h2>
             <p>This site (<strong>${hostname}</strong>) is flagged as fraudulent.</p>
             <p>Interaction is disabled. Do not share personal or payment information.</p>
             <button id="dismissFraudWarning">Dismiss</button>
+            <button id="learnMoreBtn">Learn More</button>
         `;
         document.body.appendChild(box);
 
-        // Remove overlay and alert on dismiss
+        // Removes the overlay and warning box
         document.getElementById('dismissFraudWarning').addEventListener('click', () => {
             document.getElementById('inputBlockerOverlay')?.remove();
             box.remove();
             document.body.style.overflow = '';
-            playAlertSound(); // Retry sound
+            playAlertSound(); // Retry sound in case of initial failure
+        });
+
+        // Opens external scam information site in new tab
+        document.getElementById('learnMoreBtn').addEventListener('click', () => {
+            window.open('https://www.consumerprotection.govt.nz/general-help/scamwatch', '_blank');
         });
     }
 
-    // Execute protections
+    // Execute protection
     blockUserInput();
     showFraudWarning();
     playAlertSound();
