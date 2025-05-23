@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Online Scam Detector
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.75
 // @description  Warns and blocks input on scam sites after user click; warning shows on load
 // @author       Online Scam group
 // @match        *://*/*
@@ -74,6 +74,9 @@
     // Skip if the current site isn't in the list
     if (!fraudSites.some(domain => hostname === domain || hostname.endsWith('.' + domain))) return;
 
+    // Track if the user has dismissed the warning
+    let isDismissed = false;
+
     // Set up the audio element
     const player = document.createElement('audio');
     player.src = 'https://audio.jukehost.co.uk/IpeJpbsyPHDpCEoV8lzFU3mqznohtnqI';
@@ -144,7 +147,15 @@
 
         // Dismiss the alert when "Dismiss" is clicked
         document.getElementById('dismissFraudWarning').addEventListener('click', () => {
+            isDismissed = true; // Mark dismissal
             box.remove();
+
+            // If input blocker is present, remove it and restore scrolling
+            const existingBlocker = document.getElementById('inputBlockerOverlay');
+            if (existingBlocker) {
+                existingBlocker.remove();
+                document.body.style.overflow = '';
+            }
         });
 
         // Open the DIA scam info page when "Learn More" is clicked
@@ -199,6 +210,8 @@
 
     // Activate sound and input blocker after user interaction
     function activateSecurity() {
+        if (isDismissed) return; // Skip if dismissed before click
+
         // Play the warning sound
         player.play().catch(() => {});
         // Block all input
