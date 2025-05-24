@@ -11,7 +11,7 @@ scamsList = []
 websiteCache = []
 
 #Safe websites that are included in descriptions occasionally
-whitelistedWebsites = ("netsafe.org.nz", "seek.com.au", "fca.org.uk", "nz.linkedin.com", "sorted.org.nz", "baidu.com", "co.nz", "sohu.com", "zhihu.com", "kiwibank.co.nz", "twitter.com", "youtube.com", "linkedin.com", "facebook.com", "en-gb.facebook.com")
+whitelistedWebsites = ("netsafe.org.nz", "seek.com.au", "fca.org.uk", "nz.linkedin.com", "sorted.org.nz", "baidu.com", "co.nz", "sohu.com", "zhihu.com", "kiwibank.co.nz", "twitter.com", "youtube.com", "linkedin.com", "facebook.com", "en-gb.facebook.com", "sfc.hk")
 
 #Safe TLDs that are included in descriptions occasionally
 whitelistedTLDs = ("govt.nz", "gov.au")
@@ -35,63 +35,29 @@ def ASICProcessor():
         for entry in jsonData:
             #Filter out empty entries or ones valued None in the JSON file
             if entry.get("websites") and entry["websites"][0]:
-                    #Get date of listing
-                    if entry["dateAdded"] != None:
-                        date = entry["dateAdded"]
-                    else:
-                        date = entry["dateUpdated"]
-                        
-                    #Get additional info if present
-                    if entry["otherInformationGeneral"] != "":
-                        description = entry["otherInformationGeneral"]
-                    else:
-                        description = None
-                        
-                    newWebsites = []
-                        
-                    for website in entry["websites"]:
-                        #Remove prefixes
-                        filteredWebsite = website.replace("www.", "")
-                        filteredWebsite = filteredWebsite.replace("http://", "")
-                        filteredWebsite = filteredWebsite.replace("https://", "")
-                        filteredWebsite = filteredWebsite.lower()
-                        
-                        # #Remove subdomains
-                        # subdomainIndex = filteredWebsite.find("/")
-                        # filteredWebsite = filteredWebsite[:subdomainIndex]
-
-                        
-                        validWebsite = False
                 
-                        #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
-                        # while len(filteredWebsite.split('.')) > 1:
-                        #     if filteredWebsite.split('.')[1] != "":
-                        #         if filteredWebsite.split('.')[-1] in validTLDs:
-                        #             validWebsite = True
-                        #             break
-                        #         else:
-                        #             tldIndex = filteredWebsite.rfind(".")
-                        #             if tldIndex != -1:
-                        #                 filteredWebsite = filteredWebsite[:tldIndex]
-                        #             else:
-                        #                 break
-                        #     else:
-                        #         break
-                    
-                        # if validWebsite == True:
-                        
-                        #Filter whitelisted entries
-                        if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
-                            #Check if the website has been listed in previous entries
-                            if filteredWebsite not in websiteCache and filteredWebsite != "":
-                                websiteCache.append(filteredWebsite)
-                                newWebsites.append(filteredWebsite)
-                                
-                        # else:
-                        #     print(filteredWebsite + " is not a valid website!")
+                    #Manually check the name as a backup for misinputted websites in other fields
+                    matches = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', entry["nameMandatory"])
+                    if matches != None:
+                        nameWebsites = matches
+                
+                    #Filter and capture all usable websites
+                    newWebsites = filterWebsites(entry["websites"] + nameWebsites)
                               
                     #Add the entry only if there are new websites listed                              
                     if len(newWebsites) != 0:
+                        
+                        #Get date of listing
+                        if entry["dateAdded"] != None:
+                            date = entry["dateAdded"]
+                        else:
+                            date = entry["dateUpdated"]
+                            
+                        #Get additional info if present
+                        if entry["otherInformationGeneral"] != "":
+                            description = entry["otherInformationGeneral"]
+                        else:
+                            description = None
                         
                         #Construct JSON entry with fields depending on if "otherInformationGeneral" had content or not
                         if description != None:
@@ -159,53 +125,9 @@ def FMAProcessor():
         websites = [valid for valid in websites if "@" not in valid]
         
         if len(websites) != 0: 
-            #Array to list all new websites not mentioned by previous entries
-            newWebsites = []
             
-            #Remove duplicates
-            websites = list(set(websites))
-            
-            for website in websites:
-                #Remove trailing phrases in the TLD e.g. '.comEmails'
-                tldIndex = website.rfind(".")
-                filteredTLD = re.split(r'[A-Z]', website[tldIndex:])[0]
-                filteredWebsite = (website[:tldIndex] + filteredTLD).lower()
-                #Remove prefixes
-                filteredWebsite = filteredWebsite.replace("www.", "")
-                filteredWebsite = filteredWebsite.replace("http://", "")
-                filteredWebsite = filteredWebsite.replace("https://", "")
-                
-                validWebsite = False
-                
-                #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
-                while len(filteredWebsite.split('.')) > 1:
-                    if filteredWebsite.split('.')[1] != "":
-                        if filteredWebsite.split('.')[-1] in validTLDs:
-                            validWebsite = True
-                            break
-                        else:
-                            tldIndex = filteredWebsite.rfind(".")
-                            if tldIndex != -1:
-                                filteredWebsite = filteredWebsite[:tldIndex]
-                            else:
-                                break
-                    else:
-                        break
-                    
-                if validWebsite == True:
-                    #Filter whitelisted entries
-                    if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
-                        #Remove echoed entries
-                        length = len(filteredWebsite) - 1
-                        if length % 2 == 0:
-                            midpoint = len(filteredWebsite) // 2
-                            if filteredWebsite[:midpoint] == filteredWebsite[midpoint+1:]:
-                                filteredWebsite = filteredWebsite[:midpoint]
-                                
-                        #Check if the website has been listed in previous entries
-                        if filteredWebsite not in websiteCache:
-                            websiteCache.append(filteredWebsite)
-                            newWebsites.append(filteredWebsite)
+            #Filter and capture all usable websites
+            newWebsites = filterWebsites(websites)
                             
             #Add the entry only if there are new websites listed
             if len(newWebsites) != 0:
@@ -239,6 +161,7 @@ def IOSCOProcessor():
         nca = row[2]
         date = row[4]
         name = row[6]
+        url = row[5]
         website = row[9]
         otherWebsites = row[10]
         domainName = row[11]
@@ -247,60 +170,24 @@ def IOSCOProcessor():
         #If a website has been listed in any of the applicable fields
         if website != "" or otherWebsites != "" or domainName != "" and (len(websites) != 0 or len(otherWebsites) != 0 or len(domainName) != 0):
             
+            #Manually check the description as a backup for misinputted websites in other fields
+            matches = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', description)
+            if matches != None:
+                descriptionWebsites = matches
+            
             #Combine all entries
-            websites = [website] + otherWebsites.split('|') + [domainName]
+            websites = [website] + otherWebsites.split('|') + [domainName] + descriptionWebsites
             
-            newWebsites = []
-                
-            for website in websites:
-                
-                #Remove trailing info
-                filteredWebsite = website.replace("www.", "")
-                filteredWebsite = filteredWebsite.replace("http://", "")
-                filteredWebsite = filteredWebsite.replace("https://", "")
-                filteredWebsite = filteredWebsite.lower()
-                
-                #Extract website from string
-                match = re.search(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', filteredWebsite)
-            
-                #If a valid website is found
-                if match != None:                
-                    filteredWebsite = match.group()
-                    
-                    validWebsite = False
-                
-                    #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
-                    while len(filteredWebsite.split('.')) > 1:
-                        if filteredWebsite.split('.')[1] != "":
-                            if filteredWebsite.split('.')[-1] in validTLDs:
-                                validWebsite = True
-                                break
-                            else:
-                                tldIndex = filteredWebsite.rfind(".")
-                                if tldIndex != -1:
-                                    filteredWebsite = filteredWebsite[:tldIndex]
-                                else:
-                                    break
-                        else:
-                            break
-                    
-                    if validWebsite == True:
-                        #Check if the website is whitelisted
-                        if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
-                            #Check if the website has been listed before
-                            if filteredWebsite not in websiteCache and filteredWebsite != "":
-                                websiteCache.append(filteredWebsite)
-                                newWebsites.append(filteredWebsite)
+            #Filter and capture all usable websites
+            newWebsites = filterWebsites(websites)
                     
             #Add the entry if there are new websites listed
             if len(newWebsites) != 0:
-
-                # Remove any duplicates
-                newWebsites = list(set(newWebsites))
-                            
+                           
                 entry = {
                     "Type" : "IOSCO",
                     "NCA" : nca,
+                    "URL" : url,
                     "Name" : name,
                     "Date": date,
                     "Description": description,
@@ -308,6 +195,63 @@ def IOSCOProcessor():
                 }
                 
                 scamsList.append(entry)
+
+def filterWebsites(websites):
+    newWebsites = []
+    
+    #Remove duplicates
+    websites = list(set(websites))
+                        
+    for website in websites:
+        #Remove trailing phrases in the TLD e.g. '.comEmails'
+        tldIndex = website.rfind(".")
+        filteredTLD = re.split(r'[A-Z]', website[tldIndex:])[0]
+        filteredWebsite = (website[:tldIndex] + filteredTLD).lower()
+
+        #Remove prefixes
+        filteredWebsite = filteredWebsite.replace("www.", "")
+        filteredWebsite = filteredWebsite.replace("http://", "")
+        filteredWebsite = filteredWebsite.replace("https://", "")
+        
+        #Extract website from string
+        match = re.search(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', filteredWebsite)
+
+        #If a valid website is found
+        if match != None:                
+            filteredWebsite = match.group()
+        
+            validWebsite = False
+    
+            #Filter websites by checking if the TLD is valid. Strips a TLD every time it's invalid until the string is no longer a valid website
+            while len(filteredWebsite.split('.')) > 1:
+                if filteredWebsite.split('.')[1] != "":
+                    if filteredWebsite.split('.')[-1] in validTLDs:
+                        validWebsite = True
+                        break
+                    else:
+                        tldIndex = filteredWebsite.rfind(".")
+                        if tldIndex != -1:
+                            filteredWebsite = filteredWebsite[:tldIndex]
+                        else:
+                            break
+                else:
+                    break
+    
+            if validWebsite == True:
+                #Filter whitelisted entries
+                if filteredWebsite.endswith(whitelistedTLDs) == False and filteredWebsite not in whitelistedWebsites:
+                    #Remove echoed entries
+                    length = len(filteredWebsite) - 1
+                    if length % 2 == 0:
+                        midpoint = len(filteredWebsite) // 2
+                        if filteredWebsite[:midpoint] == filteredWebsite[midpoint+1:]:
+                            filteredWebsite = filteredWebsite[:midpoint]
+                    #Check if the website has been listed in previous entries
+                    if filteredWebsite not in websiteCache and filteredWebsite != "":
+                        websiteCache.append(filteredWebsite)
+                        newWebsites.append(filteredWebsite)
+    
+    return newWebsites
 
 if __name__ == '__main__':
     
