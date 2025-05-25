@@ -1,12 +1,14 @@
 const params = new URLSearchParams(location.search);
 
-if(params.has("name") && params.has("desc")) {
-    const name = params.get("name");
-    const desc = params.get("desc");
+setGetReq("webTitle", "name", params);
+setGetReq("description", "desc", params);
 
-    const titleContainer = document.getElementById("webTitle");
-    const descriptionContainer = document.getElementById("description");
 
-    titleContainer.innerText = name;
-    descriptionContainer.innerText = desc;
+function setGetReq(id, reqName, params) {
+    const info = params.get(reqName);
+
+    if(info == null) { return; }
+
+    const docItem = document.getElementById(id);
+    docItem.innerHTML = info;
 }
