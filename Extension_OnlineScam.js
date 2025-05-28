@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Online Scam Detector
 // @namespace    http://tampermonkey.net/
-// @version      1.75
+// @version      1.80
 // @description  Warns and blocks input on scam sites after user click; warning shows on load
 // @author       Online Scam group
 // @match        *://*/*
@@ -12,70 +12,25 @@
 (function () {
     'use strict';
 
-    // List of known scam domains
-    const fraudSites = [
-        "pilosaleltd.com",
-        "fx-gam.com",
-        "selected-markets.com",
-        "fxreview.com",
-        "eternalwealthfx.com",
-        "efsca.online",
-        "aimcl.com",
-        "cfdstocks.com",
-        "abbeyhouseacquisitions.com",
-        "abelmyers.com",
-        "acctnyc.com",
-        "acomex.nl",
-        "theadamgroup.com",
-        "adderleydavis.com",
-        "admiralglobal.com",
-        "afufx.com",
-        "advantagesecurities.com",
-        "advent-oriental.com",
-        "adviser-inc.com",
-        "aeginvltd.com",
-        "agromicron.com",
-        "ajwitherspoonandco.com",
-        "brokerz.com",
-        "afadvisoryinc.com",
-        "alliancefrboard.us",
-        "alliancefx.capital",
-        "alliancegrouptokyo.com",
-        "alliedcapmgt.com",
-        "alliedsovereignzurich.com",
-        "alphatakeovers.com",
-        "ambercapitalpartners.com",
-        "ambramsoninternational.com",
-        "amcint-hk.com",
-        "afoex.com",
-        "americanhst.com",
-        "amselcommodities.com",
-        "annexinternational.com",
-        "antonfalk.com",
-        "apolloam.us",
-        "apolloassetmanagementhk.com",
-        "aqua-securities.com",
-        "arambinaryoptions.com",
-        "arcadia-hk.",
-        "ariesventuresinc.com",
-        "aristacv.com",
-        "teramusu.com",
-        "ivoryoption.com",
-        "asean-commodities.com",
-        "ashfordinvestments.com",
-        "acglobalinc.com",
-        "asiaworldcap.com",
-        "asiapacificadvisors.com"
-    ];
-
-    // Get the current hostname and remove "www." if present
-    const hostname = window.location.hostname.replace(/^www\./, '').toLowerCase();
-
-    // Skip if the current site isn't in the list
-    if (!fraudSites.some(domain => hostname === domain || hostname.endsWith('.' + domain))) return;
-
     // Track if the user has dismissed the warning
-    let isDismissed = false;
+    //let isDismissed = false;
+
+     // Fetch scam sites from live server
+    fetch('https://mmm.so-we-must-think.space/scams')
+        .then(res => res.json()) //parses the body of that response into actual data
+        .then(data => {
+            // Flatten all domains from all entries into one list
+            const allFraudSites = data.flatMap(entry => entry.Websites.map(site => site.toLowerCase()));
+
+            // Check if the current hostname matches any scam site
+            if (allFraudSites.some(domain => hostname === domain || hostname.endsWith('.' + domain))) {
+                showFraudWarning(hostname); // Show alert box
+                document.addEventListener('click', activateSecurity, { once: true }); // Enable security on first interaction
+            }
+        })
+        .catch(error => {
+            console.error('Scam list fetch failed:', error);
+        });
 
     // Set up the audio element
     const player = document.createElement('audio');
@@ -85,7 +40,7 @@
     document.body.appendChild(player);
 
     // Show fraud warning immediately on page load
-    function showFraudWarning() {
+    function showFraudWarning(hostname) {
         // Add custom styles for the warning box
         GM_addStyle(`
             #fraudAlertBox {
@@ -147,7 +102,7 @@
 
         // Dismiss the alert when "Dismiss" is clicked
         document.getElementById('dismissFraudWarning').addEventListener('click', () => {
-            isDismissed = true; // Mark dismissal
+           // isDismissed = true; // Mark dismissal
             box.remove();
 
             // If input blocker is present, remove it and restore scrolling
@@ -160,7 +115,7 @@
 
         // Open the DIA scam info page when "Learn More" is clicked
         document.getElementById('learnMoreBtn').addEventListener('click', () => {
-            window.open('https://www.dia.govt.nz/diawebsite.nsf/wpg_url/services-anti-spam-online-scams', '_blank');
+            window.open('https://mmm.so-we-must-think.space');
         });
     }
 
@@ -210,17 +165,14 @@
 
     // Activate sound and input blocker after user interaction
     function activateSecurity() {
-        if (isDismissed) return; // Skip if dismissed before click
-
-        // Play the warning sound
-        player.play().catch(() => {});
-        // Block all input
-        blockUserInput();
-        // Remove the listener after first interaction
+       // if (isDismissed) return; // Skip if dismissed before click
+        player.play().catch(() => {}); // Play the warning sound
+         blockUserInput(); // Block all input
         document.removeEventListener('click', activateSecurity);
     }
 
-    // Start everything
-    showFraudWarning(); // Show fraud warning immediately on page load
-    document.addEventListener('click', activateSecurity, { once: true }); // Wait for first user click before activating audio and block
+    // Get current hostname and remove "www."
+    const hostname = window.location.hostname.replace(/^www\./, '').toLowerCase();
+
+
 })();
