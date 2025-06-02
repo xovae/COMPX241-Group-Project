@@ -106,11 +106,15 @@ def FMAProcessor():
             websites = re.findall(r'\b(?:[@a-zA-Z0-9-]+\.(?=[^.]))+[a-zA-Z]{2,}\b', websiteCapture)
             
             #Attempt to find first common end of the description
-            descriptionEnd = content.find("Entity")
+            descriptionEnd = content.find("Entity:")
             
             #If it isn't present, attempt to find the other most common end of the description
             if descriptionEnd == -1:
-                descriptionEnd = content.find("Websites")
+                descriptionEnd = content.find("Website:")
+                
+            #If it isn't present, attempt to find the final other most common end of the description
+            if descriptionEnd == -1:
+                descriptionEnd = content.find("Websites:")
         
             #If an description end is found, capture all content between the description start and end, stripping any trailing whitespace
             if descriptionEnd != -1:
