@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Online Scam Detector
 // @namespace    http://tampermonkey.net/
-// @version      1.80
+// @version      1.85
 // @description  Warns and blocks input on scam sites after user click; warning shows on load
 // @author       Online Scam group
 // @match        *://*/*
@@ -15,22 +15,21 @@
     // Track if the user has dismissed the warning
     //let isDismissed = false;
 
-     // Fetch scam sites from live server
+    // Fetch scam sites from live server
     fetch('https://mmm.so-we-must-think.space/scams')
-        .then(res => res.json()) //parses the body of that response into actual data
-        .then(data => {
-            // Flatten all domains from all entries into one list
-            const allFraudSites = data.flatMap(entry => entry.Websites.map(site => site.toLowerCase()));
+     .then(res => res.json())
+     .then(data => {
+        const allFraudSites = data.flatMap(entry => entry.Websites.map(site => site.toLowerCase()));
+        const matchedDomain = allFraudSites.find(domain =>
+            hostname === domain || hostname.endsWith('.' + domain)
+        );
 
-            // Check if the current hostname matches any scam site
-            if (allFraudSites.some(domain => hostname === domain || hostname.endsWith('.' + domain))) {
-                showFraudWarning(hostname); // Show alert box
-                document.addEventListener('click', activateSecurity, { once: true }); // Enable security on first interaction
-            }
-        })
-        .catch(error => {
-            console.error('Scam list fetch failed:', error);
-        });
+        if (matchedDomain) {
+            showFraudWarning(hostname, matchedDomain);
+            document.addEventListener('click', activateSecurity, { once: true });
+        }
+    })
+
 
     // Set up the audio element
     const player = document.createElement('audio');
@@ -40,7 +39,7 @@
     document.body.appendChild(player);
 
     // Show fraud warning immediately on page load
-    function showFraudWarning(hostname) {
+    function showFraudWarning(hostname, matchedDomain) {
         // Add custom styles for the warning box
         GM_addStyle(`
             #fraudAlertBox {
@@ -114,9 +113,11 @@
         });
 
         // Open the DIA scam info page when "Learn More" is clicked
-        document.getElementById('learnMoreBtn').addEventListener('click', () => {
-            window.open('https://mmm.so-we-must-think.space');
-        });
+       document.getElementById('learnMoreBtn').addEventListener('click', () => {
+    const learnMoreURL = `https://mmm.so-we-must-think.space/?url=${matchedDomain}`;
+    window.open(learnMoreURL);
+     });
+
     }
 
     // Block user input with a fullscreen overlay
